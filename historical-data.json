@@ -1,0 +1,451 @@
+{
+  "historical_tariffs": [
+    {
+      "year": 2016,
+      "title": "Solar Panel Safeguard Tariffs Begin",
+      "date": "2016",
+      "products": [
+        "solar panels",
+        "renewable energy equipment"
+      ],
+      "price_impact": "Solar installation costs increased 10-18%",
+      "impact_type": "negative",
+      "source": "Solar Energy Industries Association",
+      "details": "Initial safeguard tariffs on imported solar panels began raising costs for residential and commercial installations."
+    },
+    {
+      "year": 2017,
+      "title": "Lumber Dispute with Canada Escalates",
+      "date": "April 2017",
+      "products": [
+        "lumber",
+        "construction materials"
+      ],
+      "price_impact": "Softwood lumber prices +20%, new home costs +$1,300",
+      "impact_type": "negative",
+      "source": "National Association of Home Builders",
+      "details": "Commerce Department imposed countervailing duties averaging 20% on Canadian softwood lumber, significantly impacting construction costs."
+    },
+    {
+      "year": 2018,
+      "title": "Steel and Aluminum Section 232 Tariffs",
+      "date": "March 2018",
+      "products": [
+        "steel",
+        "aluminum",
+        "appliances",
+        "cars",
+        "canned goods"
+      ],
+      "price_impact": "Cars +$300-500, appliances +$50-150, beer/soda +$0.10-0.15 per can",
+      "impact_type": "negative",
+      "source": "Federal Reserve Bank of New York",
+      "details": "25% tariff on steel, 10% on aluminum. Washing machine prices jumped $86-100. Auto prices rose $300-500. Beer and soda in aluminum cans more expensive."
+    },
+    {
+      "year": 2018,
+      "title": "Washing Machine Tariffs",
+      "date": "January 2018",
+      "products": [
+        "washing machines",
+        "dryers"
+      ],
+      "price_impact": "Washing machines +$86-100 (12% increase)",
+      "impact_type": "negative",
+      "source": "University of Chicago study",
+      "details": "Targeted tariffs on imported washing machines led to price increases across all brands, even those made domestically, as manufacturers took advantage of reduced competition."
+    },
+    {
+      "year": 2018,
+      "title": "China Section 301 Tariffs - Wave 1",
+      "date": "July 2018",
+      "products": [
+        "industrial goods",
+        "electronics components",
+        "machinery"
+      ],
+      "price_impact": "Limited direct consumer impact initially",
+      "impact_type": "negative",
+      "source": "USTR",
+      "details": "First wave of tariffs on $34 billion of Chinese goods, primarily industrial products. Consumer impact minimal at this stage."
+    },
+    {
+      "year": 2018,
+      "title": "China Tariffs Expand - Consumer Goods Hit",
+      "date": "September 2018",
+      "products": [
+        "furniture",
+        "luggage",
+        "handbags",
+        "tools",
+        "electronics"
+      ],
+      "price_impact": "Consumer goods +5-15% depending on category",
+      "impact_type": "negative",
+      "source": "Tax Foundation",
+      "details": "Tariffs expanded to $200 billion in Chinese goods, including consumer products. Furniture, luggage, and tools saw notable price increases."
+    },
+    {
+      "year": 2019,
+      "title": "China Tariffs Raised to 25%",
+      "date": "May 2019",
+      "products": [
+        "clothing",
+        "electronics",
+        "toys",
+        "furniture",
+        "shoes"
+      ],
+      "price_impact": "Average household cost +$600-800 annually",
+      "impact_type": "negative",
+      "source": "Federal Reserve study",
+      "details": "Tariff rate on $200 billion of Chinese goods increased from 10% to 25%. Major impact on consumer goods across categories."
+    },
+    {
+      "year": 2019,
+      "title": "Additional China Tariffs on Remaining Goods",
+      "date": "September 2019",
+      "products": [
+        "smartphones",
+        "laptops",
+        "clothing",
+        "footwear",
+        "toys"
+      ],
+      "price_impact": "Electronics +3-8%, clothing +8-12%, toys +10-15%",
+      "impact_type": "negative",
+      "source": "Consumer Technology Association",
+      "details": "Tariffs extended to nearly all remaining Chinese imports including consumer electronics, clothing, and toys. Holiday shopping affected."
+    },
+    {
+      "year": 2020,
+      "title": "COVID-19 Medical Supply Tariffs Suspended",
+      "date": "March 2020",
+      "products": [
+        "masks",
+        "ventilators",
+        "medical equipment",
+        "PPE"
+      ],
+      "price_impact": "Tariff relief helped stabilize medical supply prices during pandemic",
+      "impact_type": "positive",
+      "source": "U.S. Customs and Border Protection",
+      "details": "Temporary tariff exemptions on critical medical supplies to combat COVID-19 pandemic. Helped prevent additional price spikes on already scarce medical equipment."
+    },
+    {
+      "year": 2020,
+      "title": "Phase One Trade Deal - Some Tariff Relief",
+      "date": "February 2020",
+      "products": [
+        "certain electronics",
+        "industrial goods"
+      ],
+      "price_impact": "Minor relief on select products, most tariffs remain",
+      "impact_type": "positive",
+      "source": "USTR",
+      "details": "Phase One trade deal with China provided limited tariff relief on select products but maintained most consumer goods tariffs."
+    },
+    {
+      "year": 2021,
+      "title": "Lumber Tariffs on Canadian Imports Doubled",
+      "date": "November 2021",
+      "products": [
+        "lumber",
+        "construction materials",
+        "home building"
+      ],
+      "price_impact": "New home prices increased $14,000-$24,000 on average",
+      "impact_type": "negative",
+      "source": "National Association of Home Builders",
+      "details": "Tariffs on Canadian lumber jumped from 9% to 17.9%, contributing to housing affordability crisis. Single-family home construction costs rose significantly."
+    },
+    {
+      "year": 2021,
+      "title": "Container Shipping Costs Surge",
+      "date": "Throughout 2021",
+      "products": [
+        "all imported goods",
+        "furniture",
+        "electronics",
+        "clothing"
+      ],
+      "price_impact": "Shipping costs +300-400%, adding to tariff burden",
+      "impact_type": "negative",
+      "source": "Freightos Baltic Index",
+      "details": "While not a tariff, shipping cost explosion compounded tariff impacts. Combined effect raised prices significantly across all imported goods."
+    },
+    {
+      "year": 2022,
+      "title": "Steel and Aluminum Tariffs Maintained",
+      "date": "Ongoing 2022",
+      "products": [
+        "appliances",
+        "cars",
+        "construction",
+        "canned goods"
+      ],
+      "price_impact": "Washing machines +$86, cars +$200-$400, appliances +12-15%",
+      "impact_type": "negative",
+      "source": "Federal Reserve Economic Data",
+      "details": "Continuation of Section 232 tariffs (25% steel, 10% aluminum). Manufacturers passed costs to consumers across multiple product categories."
+    },
+    {
+      "year": 2022,
+      "title": "China Section 301 Tariffs Extended",
+      "date": "Throughout 2022",
+      "products": [
+        "electronics",
+        "clothing",
+        "toys",
+        "furniture",
+        "appliances"
+      ],
+      "price_impact": "Consumer goods 7.5-25% tariffs, added $625-$831 annual cost per household",
+      "impact_type": "negative",
+      "source": "Tax Foundation",
+      "details": "Tariffs on $370 billion in Chinese goods maintained. Affected everyday items from phones to furniture, with costs largely passed to American consumers."
+    },
+    {
+      "year": 2022,
+      "title": "Russian Import Ban (Sanctions)",
+      "date": "March 2022",
+      "products": [
+        "oil",
+        "gas",
+        "seafood",
+        "vodka",
+        "diamonds"
+      ],
+      "price_impact": "Gas prices +$0.50-1.00 per gallon, seafood +15-25%",
+      "impact_type": "negative",
+      "source": "Energy Information Administration",
+      "details": "Ban on Russian imports (not technically tariffs but import restrictions) significantly impacted energy and food prices."
+    },
+    {
+      "year": 2023,
+      "title": "Solar Panel Tariff Relief",
+      "date": "June 2023",
+      "products": [
+        "solar panels",
+        "renewable energy equipment"
+      ],
+      "price_impact": "Solar installation costs decreased 8-12%",
+      "impact_type": "positive",
+      "source": "Solar Energy Industries Association",
+      "details": "Two-year pause on solar panel tariffs to accelerate clean energy adoption. Made residential solar more affordable for homeowners."
+    },
+    {
+      "year": 2023,
+      "title": "Avocado and Tomato Pricing Pressures",
+      "date": "Spring 2023",
+      "products": [
+        "avocados",
+        "tomatoes",
+        "fresh produce"
+      ],
+      "price_impact": "Produce prices 15-30% above previous year",
+      "impact_type": "negative",
+      "source": "USDA Agricultural Marketing Service",
+      "details": "Combination of seasonal tariffs, weather disruptions, and supply chain issues drove fresh produce costs higher, particularly Mexican imports."
+    },
+    {
+      "year": 2023,
+      "title": "Lumber Tariff Rates Fluctuate",
+      "date": "Mid-2023",
+      "products": [
+        "lumber",
+        "construction materials"
+      ],
+      "price_impact": "Rates dropped to 8% providing some relief",
+      "impact_type": "positive",
+      "source": "U.S. Department of Commerce",
+      "details": "Canadian lumber tariff rates reduced from 17.9% to 8%, providing modest relief for construction costs."
+    },
+    {
+      "year": 2024,
+      "title": "Electric Vehicle Battery Component Tariffs",
+      "date": "January 2024",
+      "products": [
+        "electric vehicles",
+        "EV batteries",
+        "hybrid cars"
+      ],
+      "price_impact": "EVs increased $2,000-$4,500 depending on model",
+      "impact_type": "negative",
+      "source": "Automotive News",
+      "details": "New tariffs on battery components from China aimed at boosting domestic production. Short-term effect raised EV prices, potentially slowing adoption."
+    },
+    {
+      "year": 2024,
+      "title": "Semiconductor Tariff Exemptions",
+      "date": "March 2024",
+      "products": [
+        "computers",
+        "smartphones",
+        "electronics",
+        "appliances"
+      ],
+      "price_impact": "Prevented estimated 5-8% price increases on electronics",
+      "impact_type": "positive",
+      "source": "Semiconductor Industry Association",
+      "details": "Exemptions on critical semiconductor imports helped stabilize consumer electronics pricing during chip shortage recovery."
+    },
+    {
+      "year": 2024,
+      "title": "Coffee Import Tariff Adjustments",
+      "date": "July 2024",
+      "products": [
+        "coffee",
+        "coffee beans",
+        "cafe products"
+      ],
+      "price_impact": "Specialty coffee +$1.50-$3 per pound at retail",
+      "impact_type": "negative",
+      "source": "National Coffee Association",
+      "details": "Tariff changes on coffee imports from select countries. Combined with climate-related supply issues, pushed premium coffee prices higher."
+    },
+    {
+      "year": 2024,
+      "title": "Pharmaceutical Ingredient Tariffs",
+      "date": "September 2024",
+      "products": [
+        "prescription drugs",
+        "over-the-counter medications",
+        "vitamins"
+      ],
+      "price_impact": "Generic medications increased 6-10%",
+      "impact_type": "negative",
+      "source": "Generic Pharmaceutical Association",
+      "details": "Tariffs on active pharmaceutical ingredients raised production costs for generic drug manufacturers, leading to price increases."
+    },
+    {
+      "year": 2025,
+      "title": "Apparel and Footwear Tariff Increases",
+      "date": "January 2025",
+      "products": [
+        "clothing",
+        "shoes",
+        "textiles",
+        "accessories"
+      ],
+      "price_impact": "Clothing +8-15%, footwear +12-20%",
+      "impact_type": "negative",
+      "source": "American Apparel & Footwear Association",
+      "details": "Expanded tariffs on textile imports particularly impacted budget-conscious shoppers, with lower-priced items seeing largest percentage increases."
+    },
+    {
+      "year": 2025,
+      "title": "Aluminum Can Shortage Tariff Impact",
+      "date": "February 2025",
+      "products": [
+        "canned beverages",
+        "canned foods",
+        "beer",
+        "soda"
+      ],
+      "price_impact": "12-packs increased $0.75-$1.50, canned goods +5-8%",
+      "impact_type": "negative",
+      "source": "Can Manufacturers Institute",
+      "details": "Aluminum tariffs combined with supply constraints drove up packaging costs, affecting everything from soda to canned vegetables."
+    },
+    {
+      "year": 2026,
+      "title": "Supreme Court Strikes Down IEEPA Tariffs",
+      "date": "February 20, 2026",
+      "products": [
+        "all consumer goods",
+        "clothing",
+        "electronics",
+        "food",
+        "vehicles"
+      ],
+      "price_impact": "Tariff rate dropped from 16.9% to 9.1% - potential household savings of $700-1,000 annually",
+      "impact_type": "positive",
+      "source": "Yale Budget Lab, Supreme Court ruling",
+      "details": "Supreme Court ruled 6-3 that President Trump's use of IEEPA (International Emergency Economic Powers Act) to impose sweeping tariffs exceeded presidential authority. Eliminated reciprocal, fentanyl, and universal baseline tariffs affecting ~$180 billion in annual tariff revenue. Largest single tariff rollback in modern history."
+    },
+    {
+      "year": 2026,
+      "title": "Section 122 Emergency Tariffs Imposed",
+      "date": "February 22, 2026",
+      "products": [
+        "all imports except USMCA countries"
+      ],
+      "price_impact": "15% universal tariff raised effective rate back to 13.7%, adding $500-800 per household",
+      "impact_type": "negative",
+      "source": "J.P. Morgan Global Research",
+      "details": "Two days after SCOTUS ruling, President Trump invoked Section 122 of 1974 Trade Act imposing 15% tariffs on all countries for maximum 150 days. USMCA countries (Canada, Mexico) largely exempted. Uncertainty remains whether these will expire or be made permanent."
+    },
+    {
+      "year": 2026,
+      "title": "Businesses Begin Passing Tariff Costs to Consumers",
+      "date": "January-February 2026",
+      "products": [
+        "groceries",
+        "appliances",
+        "furniture",
+        "electronics"
+      ],
+      "price_impact": "Prices expected to rise 4-6% in 2026 as businesses pass along costs",
+      "impact_type": "negative",
+      "source": "JPMorgan, CNN Business",
+      "details": "After absorbing 80% of tariff costs in 2025, businesses began passing costs to consumers in early 2026. Groceries particularly affected due to thin margins. Companies that stockpiled inventory in 2025 now facing full tariff impact."
+    },
+    {
+      "year": 2026,
+      "title": "Proposed Greenland Tariffs",
+      "date": "January 19, 2026",
+      "products": [
+        "European imports",
+        "machinery",
+        "computers"
+      ],
+      "price_impact": "Would add 10% tariffs on 8 European countries, increasing household costs $150-200",
+      "impact_type": "negative",
+      "source": "Yale Budget Lab",
+      "details": "President Trump proposed 10% additional tariffs on Denmark, Norway, Sweden, France, Germany, UK, Netherlands, Finland as part of Greenland purchase negotiations. Would push effective tariff rate to 17.5%, highest since 1932. Implementation status uncertain."
+    },
+    {
+      "year": 2026,
+      "title": "Cumulative 2025-2026 Tariff Impact",
+      "date": "Through March 2026",
+      "products": [
+        "all consumer goods"
+      ],
+      "price_impact": "Est. $1,200-$1,750 per household annually, inflation +0.5-1.3 percentage points",
+      "impact_type": "negative",
+      "source": "Yale Budget Lab, Morningstar, Goldman Sachs",
+      "details": "Total tariff burden from 2025-2026 policies estimated at $1,750 per household (pre-substitution). Tariffs responsible for pushing inflation from 2% to 2.7% by end of 2025. Core goods prices expected to rise 4.5% cumulatively through 2027."
+    },
+    {
+      "year": 2026,
+      "title": "January 2026 Inflation Report",
+      "date": "January 2026",
+      "products": [
+        "beef",
+        "coffee",
+        "electricity",
+        "homeowners insurance"
+      ],
+      "price_impact": "Overall inflation 2.4%, but necessities higher: beef +15%, coffee +18%, electricity +6%",
+      "impact_type": "negative",
+      "source": "Bureau of Labor Statistics",
+      "details": "While overall inflation moderated to 2.4% in January, tariff-affected categories showed sharp increases. Furniture and appliances hit particularly hard. Combination of tariff impacts and supply constraints driving prices for specific necessities well above overall inflation rate."
+    }
+  ],
+  "summary": {
+    "total_tariffs_tracked": 30,
+    "date_range": "2016-2026 (through March 6, 2026)",
+    "average_household_impact": "$1,200-$1,800 annually (2016-2025), $1,750+ for 2026 alone",
+    "most_affected_categories": [
+      "construction",
+      "electronics",
+      "clothing",
+      "food",
+      "automobiles",
+      "appliances"
+    ],
+    "major_2026_events": "Supreme Court struck down IEEPA tariffs (largest rollback in modern history), Section 122 emergency tariffs imposed, businesses passing costs to consumers",
+    "current_status": "Effective tariff rate 13.7% as of March 2026, legal uncertainty over Section 122 expiration"
+  }
+}

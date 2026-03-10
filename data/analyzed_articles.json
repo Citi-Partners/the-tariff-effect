@@ -1,0 +1,3748 @@
+[
+  {
+    "title": "The United States and Mexico Launch Review Process of the USMCA",
+    "summary": "The US and Mexico are reviewing their trade agreement (USMCA), which could lead to changes in tariffs and trade rules affecting prices on many goods Americans buy from Mexico. Any price impacts won't be immediate since this is just the start of a review process that typically takes months to complete.",
+    "price_impact": "Potential 2-5% price changes across multiple categories depending on review outcomes",
+    "urgency": "long-term",
+    "affected_categories": [
+      "auto",
+      "food",
+      "energy",
+      "electronics",
+      "appliances",
+      "clothing"
+    ],
+    "affected_products": "Cars, automotive parts, agricultural products, manufactured goods, and various consumer items traded between US and Mexico",
+    "original_article": {
+      "link": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/united-states-and-mexico-launch-review-process-usmca",
+      "source": "US Trade Representative",
+      "published": "Thu, 05 Mar 2026 19:10:21 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "The Hill Op-Ed: US Agriculture is Back On Top and the World is Buying",
+    "summary": "Increased US agricultural exports typically help stabilize domestic food prices by supporting farmer incomes and maintaining efficient production levels. However, the direct impact on grocery bills may be minimal in the short term.",
+    "price_impact": "potential stabilization or slight decrease in food prices",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food"
+    ],
+    "affected_products": "agricultural commodities, grains, meat, dairy products",
+    "original_article": {
+      "link": "https://ustr.gov/about/policy-offices/press-office/blogs-and-op-eds/2026/hill-op-ed-us-agriculture-back-top-and-world-buying",
+      "source": "US Trade Representative",
+      "published": "Wed, 04 Mar 2026 18:56:17 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "USTR Seeks Public Comment on the Design of a Plurilateral Agreement on Trade in Critical Minerals and Policy Actions to Strengthen the Resilience of Critical Mineral Supply Chains",
+    "summary": "This is about creating trade agreements for critical minerals used in batteries, electronics, and clean energy products. While it could eventually affect prices of cars, phones, and appliances, this is still in the planning stage where the government is asking for public input.",
+    "price_impact": "Uncertain - depends on agreement terms and implementation",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics",
+      "auto",
+      "appliances",
+      "energy",
+      "construction"
+    ],
+    "affected_products": "Electric vehicles, smartphones, laptops, solar panels, batteries, semiconductors",
+    "original_article": {
+      "link": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ustr-seeks-public-comment-design-plurilateral-agreement-trade-critical-minerals-and-policy-actions",
+      "source": "US Trade Representative",
+      "published": "Thu, 26 Feb 2026 14:15:55 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Oil surges to its highest price since 2023, and stocks drop after U.S. jobs report",
+    "summary": "Higher oil prices directly translate to more expensive gasoline at the pump and increased heating costs for your home. This also makes transportation more expensive, which can gradually push up prices on groceries and other goods that need to be shipped.",
+    "price_impact": "10-20% increase on gasoline and heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "food",
+      "auto"
+    ],
+    "affected_products": "gasoline, heating oil, diesel fuel, airline tickets, shipping costs",
+    "original_article": {
+      "link": "https://www.npr.org/2026/03/06/g-s1-112788/oil-prices-stocks-jobs-report",
+      "source": "NPR Business",
+      "published": "Fri, 06 Mar 2026 15:17:20 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "No lawsuits required: U.S. Customs is working on a system to refund tariffs",
+    "summary": "If implemented, this system could lead to lower prices on imported goods as companies get tariff refunds and potentially pass savings to consumers. The 45-day timeline suggests price relief could begin within 1-2 months for products that were subject to disputed tariffs.",
+    "price_impact": "potential savings of 10-25% on tariffed goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "furniture",
+      "toys",
+      "auto"
+    ],
+    "affected_products": "imported goods subject to disputed tariffs including Chinese-made electronics, appliances, and consumer goods",
+    "original_article": {
+      "link": "https://www.npr.org/2026/03/06/nx-s1-5739361/tariff-refunds-customs-lawsuits-trade-court",
+      "source": "NPR Business",
+      "published": "Fri, 06 Mar 2026 14:54:40 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "U.S. businesses that paid emergency tariffs are now trying to recover their funds",
+    "summary": "Businesses that overpaid on illegal tariffs may pass savings to consumers through lower prices once they receive refunds, but this process will likely take months or years to complete. The $100+ billion in refunds could eventually lead to reduced costs on many imported products.",
+    "price_impact": "potential 5-15% price decreases on imported goods",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "imported consumer goods that were subject to the overturned emergency tariffs",
+    "original_article": {
+      "link": "https://www.npr.org/2026/03/05/nx-s1-5727741/u-s-businesses-that-paid-emergency-tariffs-are-now-trying-to-recover-their-funds",
+      "source": "NPR Business",
+      "published": "Thu, 05 Mar 2026 16:16:47 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Wall Street is betting on tariff refunds after Supreme Court ruling",
+    "summary": "If importers successfully get tariff refunds, those savings could eventually be passed to consumers through lower prices on imported goods. However, this process involves complex legal and financial mechanisms that will take months or years to play out.",
+    "price_impact": "Potential 5-25% price decreases on imported goods",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "auto",
+      "clothing",
+      "furniture"
+    ],
+    "affected_products": "Various imported goods that were subject to Trump-era tariffs, including washing machines, solar panels, steel/aluminum products, and Chinese manufactured goods",
+    "original_article": {
+      "link": "https://www.npr.org/2026/03/05/nx-s1-5736120/tariff-refunds-wall-street-trade",
+      "source": "NPR Business",
+      "published": "Thu, 05 Mar 2026 05:05:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "WATCH: How traffic dried up in the Strait of Hormuz since the Iran war began",
+    "summary": "The Strait of Hormuz closure disrupts global oil supply, leading to higher gas prices at the pump and increased heating costs. About 20% of the world's oil passes through this waterway, so any disruption quickly impacts energy prices worldwide.",
+    "price_impact": "10-25% increase on gasoline and heating oil",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, diesel fuel, heating oil, jet fuel",
+    "original_article": {
+      "link": "https://www.npr.org/2026/03/04/nx-s1-5736104/iran-war-oil-trump-israel-strait-hormuz-closed-energy-crisis",
+      "source": "NPR Business",
+      "published": "Wed, 04 Mar 2026 16:36:36 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "A Biden-era rule sought to stabilize child care. Why Trump wants it gone",
+    "summary": "This rule change could affect how child care subsidies are distributed to families, potentially making child care less affordable or accessible for working parents. While not directly about tariffs, changes to subsidy programs can significantly impact household budgets for families relying on child care assistance.",
+    "price_impact": "potential increase of $200-500+ monthly in child care costs",
+    "urgency": "90-days",
+    "affected_categories": [
+      "health"
+    ],
+    "affected_products": "child care services and early childhood education programs",
+    "original_article": {
+      "link": "https://www.npr.org/2026/03/04/nx-s1-5727508/child-care-trump-biden-fraud-ccdf",
+      "source": "NPR Business",
+      "published": "Wed, 04 Mar 2026 10:57:42 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Canada to Provide $720 Million to Canada Post to Avoid Insolvency at Mail Service",
+    "summary": "The government bailout may lead to higher postal rates to help Canada Post recover financially. This could increase shipping costs for online purchases and mail-order items that rely on Canada Post delivery.",
+    "price_impact": "potential shipping cost increases of $2-5 per package",
+    "urgency": "30-days",
+    "affected_categories": [
+      "clothing",
+      "electronics",
+      "health",
+      "beauty",
+      "toys"
+    ],
+    "affected_products": "online purchases, prescription deliveries, mail-order items, packages from small businesses",
+    "original_article": {
+      "link": "https://www.wsj.com/articles/canada-to-provide-720-million-to-canada-post-to-avoid-insolvency-at-mail-service-fc09a6b9?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal Economy",
+      "published": "Fri, 24 Jan 2025 15:13:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Amazon Willing to Discuss Quebec Shutdown With Canadian Officials",
+    "summary": "Quebec consumers will lose access to Amazon's local operations, potentially leading to higher prices and slower delivery times for online purchases. This could force shoppers to use more expensive alternatives or pay higher shipping costs from other provinces.",
+    "price_impact": "5-15% increase on online purchases due to reduced competition and shipping options",
+    "urgency": "90-days",
+    "affected_categories": [
+      "electronics",
+      "clothing",
+      "appliances",
+      "furniture",
+      "toys",
+      "sports",
+      "health",
+      "beauty"
+    ],
+    "affected_products": "All Amazon retail products including household goods, electronics, clothing, and general merchandise",
+    "original_article": {
+      "link": "https://www.wsj.com/articles/amazon-willing-to-discuss-quebec-shutdown-with-canadian-officials-610e5f59?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal Economy",
+      "published": "Fri, 24 Jan 2025 14:15:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "EU Conditionally Approves International Paper's $7.16 Billion DS Smith Buy",
+    "summary": "This merger creates a larger paper and packaging company, which could lead to higher prices for cardboard boxes, paper products, and packaging materials. The EU required selling some facilities to maintain competition, but consumers may still see modest price increases on items like moving boxes, office paper, and product packaging costs passed through to retail goods.",
+    "price_impact": "2-5% increase on paper-based products",
+    "urgency": "long-term",
+    "affected_categories": [
+      "construction",
+      "furniture"
+    ],
+    "affected_products": "cardboard packaging, office paper, corrugated boxes, paper-based construction materials",
+    "original_article": {
+      "link": "https://www.wsj.com/articles/eu-conditionally-approves-international-papers-7-16-billion-ds-smith-buy-c1ce87f1?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal Economy",
+      "published": "Fri, 24 Jan 2025 10:55:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Verizon Results Boosted by Higher Prices, Gain in Wireless Customers",
+    "summary": "Verizon has raised prices on wireless services, which will directly increase monthly phone and data plan costs for consumers. This affects household budgets through higher recurring telecommunications expenses.",
+    "price_impact": "increase in monthly wireless bills, specific amount not specified",
+    "urgency": "immediate",
+    "affected_categories": [
+      "electronics"
+    ],
+    "affected_products": "wireless phone plans, data services, mobile telecommunications",
+    "original_article": {
+      "link": "https://www.wsj.com/articles/verizon-results-boosted-by-higher-prices-gain-in-wireless-customers-5f0ff6e9?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal Economy",
+      "published": "Fri, 24 Jan 2025 09:05:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "China's WeRide Wants to Build Global Robotaxi Empire",
+    "summary": "Chinese robotaxi expansion could eventually lower transportation costs for consumers through cheaper autonomous ride services. However, this is a long-term development that won't impact household budgets immediately.",
+    "price_impact": "Potential reduction in ride costs of 20-40% as robotaxi services scale",
+    "urgency": "long-term",
+    "affected_categories": [
+      "auto"
+    ],
+    "affected_products": "ride-sharing services, taxi fares, transportation costs",
+    "original_article": {
+      "link": "https://www.wsj.com/articles/chinas-weride-wants-to-build-global-robotaxi-empire-6804cc80?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal Economy",
+      "published": "Fri, 24 Jan 2025 03:30:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Iran attacks show the perils of following America’s economic lead",
+    "summary": "Attacks on Iran could disrupt oil supplies and drive up gas prices at the pump and home heating costs. Countries too dependent on fossil fuels and US trade relationships face higher energy price volatility during Middle East conflicts.",
+    "price_impact": "5-15% increase on gasoline and heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas, electricity",
+    "original_article": {
+      "link": "https://www.ft.com/content/8dc24319-631e-4477-a002-668a410c40e9",
+      "source": "Financial Times Trade",
+      "published": "Thu, 05 Mar 2026 05:00:34 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Trump ponders Plans B to D after his favourite tariffs are taken away",
+    "summary": "Trump is exploring alternative tariff approaches after some of his preferred trade duties were ruled illegal by the Supreme Court. The replacement tariffs may affect prices on imported goods, but the specific impact will depend on which products are targeted and the new duty rates implemented.",
+    "price_impact": "Variable impact depending on final tariff structure",
+    "urgency": "long-term",
+    "affected_categories": [
+      "appliances",
+      "auto",
+      "electronics",
+      "construction"
+    ],
+    "affected_products": "Products previously subject to challenged tariffs, likely including imported appliances, automotive parts, electronics, and construction materials",
+    "original_article": {
+      "link": "https://www.ft.com/content/eb225575-a085-4182-a431-30f18b420bd3",
+      "source": "Financial Times Trade",
+      "published": "Mon, 02 Mar 2026 12:31:03 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "The Supreme Court sends tariffs on a turbulent descent",
+    "summary": "If Congress and trading partners successfully challenge current tariffs, consumers could see lower prices on many imported goods over time. This would mean cheaper appliances, electronics, cars, and other products that currently have tariff costs built into their prices.",
+    "price_impact": "potential 5-25% decrease on various imported goods",
+    "urgency": "long-term",
+    "affected_categories": [
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "imported appliances, vehicles, electronics, textiles, building materials, furniture, toys",
+    "original_article": {
+      "link": "https://www.ft.com/content/51f74834-6570-4a4d-bfe9-c9c8c4bb174f",
+      "source": "Financial Times Trade",
+      "published": "Mon, 23 Feb 2026 12:36:06 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Bashing Trump’s tariffs is slowly becoming a bipartisan sport",
+    "summary": "Growing bipartisan opposition to Trump's tariffs suggests these import taxes remain unpopular due to their impact on consumer prices. While this doesn't indicate immediate price changes, continued political pressure could influence future tariff policies that affect the cost of imported goods.",
+    "price_impact": "General increase on imported goods, specific amounts depend on product category",
+    "urgency": "long-term",
+    "affected_categories": [
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "Various imported consumer goods subject to existing tariffs",
+    "original_article": {
+      "link": "https://www.ft.com/content/7b7223c3-1890-42fe-a1ec-6dfc22507032",
+      "source": "Financial Times Trade",
+      "published": "Mon, 16 Feb 2026 12:31:04 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "The US cannot be trusted to lead a critical minerals coalition",
+    "summary": "Rare earth minerals are essential for making smartphones, electric vehicles, wind turbines, and many household appliances. If the US fails to reduce dependence on Chinese rare earth supplies, supply chain disruptions could lead to higher prices for these products. This affects long-term costs rather than immediate price changes.",
+    "price_impact": "3-8% increase on electronics and EVs over 12-24 months",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics",
+      "auto",
+      "appliances",
+      "energy"
+    ],
+    "affected_products": "smartphones, laptops, electric vehicles, washing machines, refrigerators, wind turbines, solar panels",
+    "original_article": {
+      "link": "https://www.ft.com/content/bd8188b7-8a30-462c-92a2-786895a3b2ad",
+      "source": "Financial Times Trade",
+      "published": "Thu, 12 Feb 2026 11:00:04 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "How CEOs are grappling with the geopolitics of trade",
+    "summary": "Companies are preparing for potential trade disruptions by adjusting supply chains and pricing strategies. While no immediate price changes are happening, businesses are building in protection against future tariffs or trade restrictions, which could lead to gradual price increases across many product categories over the coming months.",
+    "price_impact": "varies by product - potential 5-15% increases across categories",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "auto",
+      "clothing",
+      "furniture"
+    ],
+    "affected_products": "imported goods across multiple categories including electronics, appliances, vehicles, and consumer goods",
+    "original_article": {
+      "link": "https://www.ft.com/content/9fb5b5dd-e374-4d97-bfea-f8f780823acb",
+      "source": "Financial Times Trade",
+      "published": "Mon, 09 Feb 2026 12:31:09 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "EU has tepid zeal for geoeconomic challenges to Trump",
+    "summary": "The EU's hesitant approach to the Mercosur trade deal (with Brazil, Argentina, Uruguay, Paraguay) could mean higher prices for South American imports like beef, soybeans, cars, and textiles. If the deal stalls due to protectionist concerns, consumers may face higher costs on these goods compared to if free trade were expanded.",
+    "price_impact": "potential 3-7% increase on imported goods from South America",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "auto",
+      "clothing",
+      "furniture"
+    ],
+    "affected_products": "beef, agricultural products, automobiles, textiles, leather goods",
+    "original_article": {
+      "link": "https://www.ft.com/content/8a818ae9-ffef-449f-8d08-1571f3cd1296",
+      "source": "Financial Times Trade",
+      "published": "Mon, 12 Jan 2026 12:31:10 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Donald Trump’s imperial Venezuela folly will leave America no richer",
+    "summary": "Trump's Venezuela policies could affect oil imports and mineral supplies that impact gas prices and products containing Venezuelan materials. However, the article suggests these policies may be ineffective, so actual consumer impact remains uncertain.",
+    "price_impact": "potential 10-20% increase on oil-related products and materials",
+    "urgency": "long-term",
+    "affected_categories": [
+      "energy",
+      "electronics",
+      "auto"
+    ],
+    "affected_products": "gasoline, oil-based products, minerals used in electronics and vehicles",
+    "original_article": {
+      "link": "https://www.ft.com/content/807390fb-9528-4771-ad7a-be6b87b8f639",
+      "source": "Financial Times Trade",
+      "published": "Thu, 08 Jan 2026 05:00:26 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "A year of trade drama and the plot twists yet to come",
+    "summary": "While Trump may not push existing tariffs higher, he could expand trade conflicts to new areas, potentially affecting prices on various imported products. The uncertainty around future trade policy could lead to gradual price increases as companies prepare for potential new tariffs.",
+    "price_impact": "potential 10-25% increases on imported goods",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "auto",
+      "clothing",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "imported consumer goods from countries that could become new targets of trade disputes",
+    "original_article": {
+      "link": "https://www.ft.com/content/e9192041-c69e-43bd-ac3d-d746d2176283",
+      "source": "Financial Times Trade",
+      "published": "Mon, 29 Dec 2025 12:31:02 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "The EU’s old protectionist instinct outweighs its new geopolitical ambition",
+    "summary": "The stalled EU-Mercosur trade deal means higher tariffs will continue on South American imports like beef, agricultural products, and manufactured goods. This keeps prices elevated for European consumers who could have benefited from cheaper imports from Brazil, Argentina, and other Mercosur countries.",
+    "price_impact": "3-7% increase on beef, soybeans, and agricultural products",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "auto",
+      "clothing",
+      "furniture"
+    ],
+    "affected_products": "beef, soybeans, agricultural products, automobiles, textiles",
+    "original_article": {
+      "link": "https://www.ft.com/content/5b19a8c8-d2b8-428f-9116-4a201430f0c5",
+      "source": "Financial Times Trade",
+      "published": "Mon, 22 Dec 2025 12:31:09 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "The EU’s economic security blanket is patchy and thin",
+    "summary": "The EU's uncoordinated approach to electric vehicle trade policy could lead to higher prices for electric cars as manufacturers face uncertain regulations and potential tariffs. This disjointed response may slow EV adoption and keep electric vehicle prices elevated for European consumers.",
+    "price_impact": "Potential 10-20% increase on electric vehicles",
+    "urgency": "90-days",
+    "affected_categories": [
+      "auto"
+    ],
+    "affected_products": "electric vehicles, EVs, electric cars",
+    "original_article": {
+      "link": "https://www.ft.com/content/ff8e4aa9-0412-491e-ab11-3ab4331116f3",
+      "source": "Financial Times Trade",
+      "published": "Thu, 18 Dec 2025 11:00:06 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Trump stiffs farmers and China stiffs Trump",
+    "summary": "Trade tensions between the US and China are hurting American farmers who lose export markets, potentially leading to higher domestic food prices. When farmers can't sell crops abroad due to retaliatory tariffs, it disrupts supply chains and can increase costs for consumers at grocery stores.",
+    "price_impact": "3-7% increase on agricultural products and food prices",
+    "urgency": "90-days",
+    "affected_categories": [
+      "food"
+    ],
+    "affected_products": "grains, soybeans, corn, wheat, pork, beef, dairy products",
+    "original_article": {
+      "link": "https://www.ft.com/content/7aca9333-32f0-4bd5-9d5b-41ff03743727",
+      "source": "Financial Times Trade",
+      "published": "Mon, 15 Dec 2025 12:31:07 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Trump’s tariffs are not reducing the trade deficit",
+    "summary": "Tariffs are making imported goods more expensive while hurting US manufacturers who rely on imported materials. This means consumers face higher prices on everything from appliances to cars, while domestic alternatives may also cost more due to supply chain disruptions.",
+    "price_impact": "3-7% increase on manufactured goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "appliances",
+      "auto",
+      "electronics",
+      "construction",
+      "furniture"
+    ],
+    "affected_products": "washing machines, cars, steel products, aluminum goods, electronics components",
+    "original_article": {
+      "link": "https://www.ft.com/content/d64cc455-ce6d-43b5-b68b-6e3c0cd2e89d",
+      "source": "Financial Times Trade",
+      "published": "Mon, 01 Dec 2025 12:31:06 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "The hot air of Trump’s tariffs is approaching a ceiling of cold reality",
+    "summary": "Trump's tariffs are already causing price increases on imported goods before their full implementation. Consumers can expect to pay more for everyday items like washing machines, electronics, cars, and clothing as businesses pass these import taxes onto shoppers.",
+    "price_impact": "varies by category, generally 10-25% increases",
+    "urgency": "immediate",
+    "affected_categories": [
+      "appliances",
+      "electronics",
+      "auto",
+      "construction",
+      "clothing"
+    ],
+    "affected_products": "imported consumer goods, manufactured products, household appliances",
+    "original_article": {
+      "link": "https://www.ft.com/content/5fa74b26-8386-4d4a-bfdd-a775c3eab054",
+      "source": "Financial Times Trade",
+      "published": "Thu, 27 Nov 2025 15:22:02 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Trump’s gunboat trade deals show a tariff campaign reaching its limits",
+    "summary": "Political resistance to Trump's tariff policies suggests current import duties may face changes or limitations. If tariffs are reduced due to political pressure, consumers could see lower prices on imported goods, but if they're maintained or expanded, expect higher costs on many everyday items.",
+    "price_impact": "varies by product, but tariffs typically add 10-25% to imported goods",
+    "urgency": "long-term",
+    "affected_categories": [
+      "auto",
+      "electronics",
+      "appliances",
+      "clothing",
+      "furniture"
+    ],
+    "affected_products": "imported goods subject to current US tariffs",
+    "original_article": {
+      "link": "https://www.ft.com/content/8f784a6c-a5e4-496d-a255-e74705e7064f",
+      "source": "Financial Times Trade",
+      "published": "Mon, 17 Nov 2025 12:31:09 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Pharmaceutical Tariffs Would Add Costs and Reduce Innovation",
+    "summary": "If pharmaceutical tariffs are imposed, prescription drug prices could increase as importers pass tariff costs to consumers. This would make medications more expensive and could reduce development of new treatments over time.",
+    "price_impact": "potential increase on prescription drugs and medications",
+    "urgency": "long-term",
+    "affected_categories": [
+      "health"
+    ],
+    "affected_products": "prescription drugs, over-the-counter medications, active pharmaceutical ingredients",
+    "original_article": {
+      "link": "https://taxfoundation.org/blog/pharmaceutical-tariffs/",
+      "source": "Tax Foundation",
+      "published": "March 4, 2026 21:00:26 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "FAQs About Border Adjustment",
+    "summary": "A border adjustment tax would make imported products more expensive while potentially making U.S.-made goods relatively cheaper. This could significantly impact household budgets since many everyday items like electronics, clothing, and appliances contain imported components or are fully imported.",
+    "price_impact": "5-25% increase on imported goods depending on implementation",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "Most imported consumer goods including smartphones, cars, clothing, home appliances, and food items",
+    "original_article": {
+      "link": "https://taxfoundation.org/blog/border-adjustment-faq-taxes-trade/",
+      "source": "Tax Foundation",
+      "published": "March 4, 2026 19:36:43 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Utah’s Digital Ad Tax, by Any Other Name, Is Just as Legally Fraught",
+    "summary": "Utah's digital advertising tax will likely cause businesses to pass increased advertising costs to consumers through higher prices on products and services. Companies that rely heavily on digital advertising to reach customers may raise prices to maintain profit margins, affecting most retail categories.",
+    "price_impact": "1-3% increase on advertised products",
+    "urgency": "90-days",
+    "affected_categories": [
+      "electronics",
+      "clothing",
+      "beauty",
+      "auto",
+      "appliances",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "Any products or services advertised digitally - online shopping, local services, retail goods",
+    "original_article": {
+      "link": "https://taxfoundation.org/blog/utah-digital-ad-tax/",
+      "source": "Tax Foundation",
+      "published": "March 4, 2026 15:40:03 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Tariffs Increased Retail Prices of Imports by 7 Percentage Points Prior to Supreme Court Ruling",
+    "summary": "Tariffs are making imported products cost 7% more at retail stores, directly increasing prices that consumers pay. Despite claims that tariffs don't affect shoppers, the data shows families are paying significantly more for everyday imported items from clothes to electronics.",
+    "price_impact": "7% increase on imported goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "auto",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "All imported retail goods subject to tariffs",
+    "original_article": {
+      "link": "https://taxfoundation.org/blog/trump-tariffs-raise-prices-consumers/",
+      "source": "Tax Foundation",
+      "published": "March 3, 2026 15:20:01 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Trump Tariffs Threaten to Offset Much of the “Big Beautiful Bill” Tax Cuts",
+    "summary": "Tariffs on imported goods mean consumers pay higher prices at stores since businesses pass these costs along. While tax cuts may put some money back in your pocket, the higher prices on everyday items like appliances, cars, and clothing could eat up much of those savings.",
+    "price_impact": "varies by category, generally 10-25% increases on imported goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "imported consumer goods including electronics, appliances, automobiles, clothing, furniture, and construction materials",
+    "original_article": {
+      "link": "https://taxfoundation.org/blog/trump-tariffs-tax-cuts/",
+      "source": "Tax Foundation",
+      "published": "March 3, 2026 15:00:17 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Vaping Taxes by State, 2026",
+    "summary": "State taxes on vaping products will vary across different states, potentially making e-cigarettes and vaping supplies more expensive depending on where you live. This could affect smokers trying to use vaping as a cheaper alternative to quit cigarettes.",
+    "price_impact": "varies by state tax structure",
+    "urgency": "long-term",
+    "affected_categories": [
+      "tobacco"
+    ],
+    "affected_products": "e-cigarettes, vape pods, vaping liquids, vaping devices",
+    "original_article": {
+      "link": "https://taxfoundation.org/data/all/state/vaping-taxes/",
+      "source": "Tax Foundation",
+      "published": "March 2, 2026 22:15:09 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Diesel and Gas Taxes in Europe, 2026",
+    "summary": "Higher fuel taxes in Europe will increase the cost of gasoline and diesel at the pump, making it more expensive to drive and heat homes. This will also indirectly raise prices on goods and services as transportation costs increase throughout the economy.",
+    "price_impact": "Variable increase on fuel costs - typically 10-30% based on tax changes",
+    "urgency": "long-term",
+    "affected_categories": [
+      "energy",
+      "auto"
+    ],
+    "affected_products": "gasoline, diesel fuel, heating oil, transportation services",
+    "original_article": {
+      "link": "https://taxfoundation.org/data/all/eu/diesel-gas-taxes-europe/",
+      "source": "Tax Foundation",
+      "published": "February 24, 2026 00:00:50 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Tariff Tracker: Impact of Trump Tariffs & Trade War by the Numbers",
+    "summary": "Trump-era tariffs are effectively acting as a tax on American consumers, costing the average household an additional $700 per year by 2026. These tariffs increase prices on imported goods without significantly changing America's trade balance, meaning families pay more for everyday items without the intended economic benefits.",
+    "price_impact": "$700 average tax increase per household in 2026",
+    "urgency": "long-term",
+    "affected_categories": [
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "Imported goods subject to Trump tariffs including manufactured goods, consumer electronics, and various household items",
+    "original_article": {
+      "link": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+      "source": "Tax Foundation",
+      "published": "February 23, 2026 08:51:24 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Supreme Court Strikes Down President Trump’s Tariffs",
+    "summary": "The Supreme Court struck down Trump's tariffs, which means prices on many imported products should start dropping. This is good news for household budgets as families will pay less for everything from electronics to clothing that comes from overseas.",
+    "price_impact": "3-10% decrease on imported goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "auto",
+      "clothing",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "imported consumer goods subject to IEEPA tariffs",
+    "original_article": {
+      "link": "https://taxfoundation.org/blog/supreme-court-trump-tariffs-ruling/",
+      "source": "Tax Foundation",
+      "published": "February 20, 2026 16:43:21 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Poland Considering a Second Harmful Digital Tax",
+    "summary": "Poland's proposed digital services tax increase could lead to higher prices for online services, streaming platforms, digital advertising, and e-commerce transactions. Companies like Google, Amazon, Netflix, and other digital platforms may pass these increased tax costs directly to Polish consumers through higher subscription fees and service charges.",
+    "price_impact": "2-5% increase on digital services and online platforms",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics"
+    ],
+    "affected_products": "streaming services, cloud storage, online advertising, e-commerce platforms, digital app purchases",
+    "original_article": {
+      "link": "https://taxfoundation.org/blog/poland-digital-tax/",
+      "source": "Tax Foundation",
+      "published": "February 20, 2026 11:00:16 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Expect a Busy Year for Alternative Tobacco Product Taxes",
+    "summary": "Alternative tobacco products like e-cigarettes, vaping products, and smokeless tobacco will become more expensive in several states during 2026. If you use these products, expect to pay more at checkout as states implement new taxes or raise existing ones.",
+    "price_impact": "varies by state, typically $0.50-$2.00 per unit increase",
+    "urgency": "long-term",
+    "affected_categories": [
+      "tobacco"
+    ],
+    "affected_products": "e-cigarettes, vaping products, smokeless tobacco, heated tobacco products",
+    "original_article": {
+      "link": "https://taxfoundation.org/blog/alternative-tobacco-product-taxes/",
+      "source": "Tax Foundation",
+      "published": "February 19, 2026 19:21:03 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Ho Hum, Another Year of US Energy Dominance",
+    "summary": "US energy dominance typically means more stable and potentially lower energy costs for consumers, as increased domestic production reduces reliance on imports and provides more price stability. This could help keep gasoline, heating, and electricity costs more predictable for household budgets.",
+    "price_impact": "potential energy cost stabilization or reduction",
+    "urgency": "long-term",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, natural gas, heating oil, electricity",
+    "original_article": {
+      "link": "https://www.aei.org/foreign-and-defense-policy/ho-hum-another-year-of-us-energy-dominance/",
+      "source": "American Enterprise Institute",
+      "published": "Fri, 06 Mar 2026 20:30:45 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "An Iranian Challenge to the US Economy",
+    "summary": "Iranian tensions typically disrupt global oil markets, which can lead to higher gas prices at the pump and increased heating costs for households. While the full impact is still uncertain, energy costs could rise significantly if the situation escalates.",
+    "price_impact": "potential 10-30% increase on gasoline and heating costs",
+    "urgency": "30-days",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas",
+    "original_article": {
+      "link": "https://www.aei.org/economics/an-iranian-challenge-to-the-us-economy/",
+      "source": "American Enterprise Institute",
+      "published": "Mon, 02 Mar 2026 19:35:26 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
+    "summary": "The U.S.-Iran conflict is causing gas prices to rise at the pump and mortgage rates to spike, making it more expensive to fill up your car and buy or refinance a home. These market disruptions from geopolitical tensions directly impact your monthly budget through higher fuel costs and borrowing costs.",
+    "price_impact": "higher gas prices and increased mortgage rates",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "realestate"
+    ],
+    "affected_products": "gasoline, mortgages, home loans",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html",
+      "source": "CNBC Economics",
+      "published": "Fri, 06 Mar 2026 17:01:36 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "UAE mulls freezing Iranian assets as Middle East conflict escalates: WSJ",
+    "summary": "Freezing Iranian assets could disrupt oil markets and trade flows in the Middle East, potentially leading to higher gas prices at the pump. While the UAE action targets Iran's finances rather than oil directly, market uncertainty often drives energy prices up.",
+    "price_impact": "3-7% increase on gasoline and heating costs",
+    "urgency": "30-days",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/06/uae-mulls-freezing-iranian-assets-as-middle-east-conflict-escalates-wsj-.html",
+      "source": "CNBC Economics",
+      "published": "Fri, 06 Mar 2026 13:01:34 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation",
+    "summary": "Oil price spikes from Middle East conflicts typically lead to higher gas prices at the pump within days to weeks. This also increases costs for food and goods transportation, which can push up grocery prices and other essentials.",
+    "price_impact": "10-20% increase on gasoline and heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "food",
+      "auto"
+    ],
+    "affected_products": "gasoline, diesel fuel, heating oil, natural gas, food products due to transportation costs",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/04/iran-israel-us-war-middle-east-conflict-oil-gas-lng-surge-central-banks-inflation-risk.html",
+      "source": "CNBC Economics",
+      "published": "Wed, 04 Mar 2026 05:32:45 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "As Trump declares inflation tamed, Iran conflict threatens new price pressures",
+    "summary": "Iran conflict could drive up oil prices, leading to higher gas prices at the pump and increased heating costs for households. This would put upward pressure on overall inflation just as the economy was showing signs of cooling price growth.",
+    "price_impact": "10-20% increase on gasoline and heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas, diesel fuel",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/02/as-trump-declares-inflation-tamed-iran-conflict-threatens-new-price-pressures.html",
+      "source": "CNBC Economics",
+      "published": "Mon, 02 Mar 2026 20:24:54 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Why Iran should not count on allies Russia and China to come to its aid",
+    "summary": "Iran's isolation from key allies could lead to more aggressive sanctions enforcement or regional instability, potentially disrupting oil supplies and driving up gas prices. Without Russian and Chinese support, Iran may take more desperate actions that could affect global energy markets.",
+    "price_impact": "potential 5-15% increase on oil/gas prices",
+    "urgency": "30-days",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/02/iran-china-russia-strikes-assistance-alliance-weapons-missiles-geopolitics-oil-prices-ukraine.html",
+      "source": "CNBC Economics",
+      "published": "Tue, 03 Mar 2026 06:11:17 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Iran conflict: Where things stand, global responses — and what comes next",
+    "summary": "Military conflicts in the Middle East typically disrupt oil supply chains and create market uncertainty, driving up gas prices at the pump within days. Iran is a major oil producer, so escalating tensions can cause immediate spikes in energy costs that hit household budgets through higher fuel and heating bills.",
+    "price_impact": "10-20% increase on gasoline and heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas, diesel fuel",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/02/iran-israel-us-conflict-oil-jumps-trump-netanyahu-what-is-next.html",
+      "source": "CNBC Economics",
+      "published": "Mon, 02 Mar 2026 14:34:45 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Core wholesale prices rose 0.8% in January, much more than expected",
+    "summary": "Wholesale prices are rising faster than expected, which means businesses are paying more for goods before they sell them to you. This typically leads to higher retail prices within 2-3 months as companies pass these costs along to consumers.",
+    "price_impact": "2-5% increase across most goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "furniture",
+      "energy"
+    ],
+    "affected_products": "Most manufactured goods and consumer products",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/27/ppi-january-2026-.html",
+      "source": "CNBC Economics",
+      "published": "Fri, 27 Feb 2026 14:29:19 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Trump insists trade deals safe after Supreme Court ruling upends tariff authority, but partners aren’t so sure",
+    "summary": "The Supreme Court striking down Trump's tariffs creates uncertainty about trade deals, which could lead to price swings on imported goods as companies don't know what tariff rates will apply. This confusion may cause retailers to adjust prices up or down while new trade policies are sorted out.",
+    "price_impact": "uncertainty creates potential 10-25% price volatility",
+    "urgency": "90-days",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "auto",
+      "clothing",
+      "furniture",
+      "construction"
+    ],
+    "affected_products": "imported consumer goods, cars, home appliances, electronics, clothing",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/26/trump-state-of-the-union-supreme-court-tariffs-trade-deals-ieepa-section-301-232-122.html",
+      "source": "CNBC Economics",
+      "published": "Thu, 26 Feb 2026 07:45:05 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "China’s leverage rises before high-stakes summit as Supreme Court curbs Trump tariffs",
+    "summary": "The Supreme Court invalidating Trump's China tariffs could lead to lower prices on many imported goods from China. Consumers may see reduced costs on electronics, appliances, and other Chinese-made products as tariffs are removed, though the full impact depends on upcoming trade negotiations.",
+    "price_impact": "5-15% decrease on Chinese imports",
+    "urgency": "90-days",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "smartphones, laptops, washing machines, clothing, furniture, toys, small appliances",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/23/trumps-tariff-setback-in-supreme-court-ruling-boosts-china-april-summit-leverage-xi.html",
+      "source": "CNBC Economics",
+      "published": "Thu, 26 Feb 2026 03:16:07 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "With Trump's 'reciprocal' tariffs struck down, here are the industries still facing higher rates",
+    "summary": "While some Trump-era tariffs were struck down, sector-specific tariffs remain on certain imported goods, keeping prices elevated on items like electronics and appliances. Consumers may see modest price relief on some products but shouldn't expect dramatic price drops immediately.",
+    "price_impact": "Variable by sector - some relief expected but remaining tariffs still add 10-25% to affected goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "auto",
+      "construction"
+    ],
+    "affected_products": "Imported electronics, home appliances, auto parts, and construction materials from targeted countries",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/20/trump-tariffs-supreme-court-ruling-industry-higher-rates.html",
+      "source": "CNBC Economics",
+      "published": "Fri, 20 Feb 2026 19:23:06 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate; inflation firms at 3%",
+    "summary": "Inflation is running at 3% annually, meaning the average family will pay about 3% more for most goods and services compared to last year. With slower economic growth, this price pressure may persist as the economy isn't growing fast enough to offset rising costs.",
+    "price_impact": "3% increase across most goods and services",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "energy",
+      "realestate",
+      "alcohol",
+      "tobacco",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "groceries, gas, housing costs, clothing, electronics, and most consumer goods",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/20/pce-inflation-december-2025.html",
+      "source": "CNBC Economics",
+      "published": "Fri, 20 Feb 2026 16:05:02 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "UK inflation cools markedly in January, boosting odds of Bank of England rate cut",
+    "summary": "Lower inflation means prices are rising more slowly across most goods and services, potentially easing pressure on household budgets. This could also increase chances of interest rate cuts, which would reduce borrowing costs for mortgages, loans, and credit cards.",
+    "price_impact": "3% annual inflation rate, down from higher previous levels",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food",
+      "energy",
+      "clothing",
+      "auto",
+      "electronics",
+      "furniture",
+      "health",
+      "beauty"
+    ],
+    "affected_products": "General consumer goods, services, utilities, and borrowing costs",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/18/uk-inflation-cools-jan-2026-boe-cut.html",
+      "source": "CNBC Economics",
+      "published": "Wed, 18 Feb 2026 07:32:35 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Consumer prices rose 2.4% annually in January, less than expected",
+    "summary": "Overall consumer prices rose 2.4% compared to last year, which is actually lower than the expected 2.5% increase. This means everyday items cost slightly more than a year ago, but the pace of price increases is slowing down compared to expectations.",
+    "price_impact": "2.4% increase across all consumer goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "energy",
+      "realestate",
+      "alcohol",
+      "tobacco",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All consumer goods and services measured in the Consumer Price Index",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/13/cpi-inflation-report-january-2026.html",
+      "source": "CNBC Economics",
+      "published": "Fri, 13 Feb 2026 16:02:54 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "The January CPI inflation report is due out Friday morning. Here's what it's expected to show",
+    "summary": "The Consumer Price Index (CPI) report measures how much prices have changed for everything families buy - from groceries to gas to rent. This report will show whether inflation is cooling down or heating up, which affects your purchasing power and household budget.",
+    "price_impact": "CPI measures overall price changes across all goods and services",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food",
+      "energy",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health",
+      "alcohol",
+      "tobacco"
+    ],
+    "affected_products": "All consumer goods and services tracked in CPI basket",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/12/the-january-cpi-inflation-report-is-due-out-friday-morning-heres-what-its-expected-to-show.html",
+      "source": "CNBC Economics",
+      "published": "Thu, 12 Feb 2026 21:42:46 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
+    "summary": "Higher tariff collections mean importers are paying more to bring foreign goods into the U.S., and these costs are typically passed on to consumers through higher retail prices. This affects most imported products from electronics to clothing, making everyday items more expensive for households.",
+    "price_impact": "3-15% increase on imported goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "furniture",
+      "toys",
+      "auto"
+    ],
+    "affected_products": "imported electronics, appliances, clothing, furniture, toys, automotive parts",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/11/tariff-revenue-soars-more-than-300percent-as-us-awaits-supreme-court-decision.html",
+      "source": "CNBC Economics",
+      "published": "Fri, 20 Feb 2026 15:39:54 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Swiss National Bank cuts interest rates by a half point to 0.5%",
+    "summary": "Lower interest rates make borrowing cheaper, reducing monthly payments on mortgages, car loans, and credit purchases. This should help household budgets by decreasing financing costs, though the full impact takes time to flow through the economy.",
+    "price_impact": "2-5% decrease on financed purchases over 6-12 months",
+    "urgency": "30-days",
+    "affected_categories": [
+      "realestate",
+      "auto",
+      "appliances",
+      "furniture",
+      "construction"
+    ],
+    "affected_products": "home mortgages, car loans, credit card rates, home equity loans",
+    "original_article": {
+      "link": "https://www.marketwatch.com/story/swiss-national-bank-cuts-interest-rates-by-a-half-point-to-0-5-ed1fce78?mod=mw_rss_realtimeheadlines",
+      "source": "MarketWatch Economy",
+      "published": "Thu, 12 Dec 2024 08:32:00 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Dollar jumps 0.5% to 0.8890 francs",
+    "summary": "A stronger dollar makes Swiss imports cheaper for US consumers, but this is a relatively small currency move. However, it also makes US exports more expensive abroad, which could eventually affect domestic prices if companies adjust pricing strategies.",
+    "price_impact": "2-4% increase on imported Swiss goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "auto",
+      "clothing",
+      "food"
+    ],
+    "affected_products": "Swiss watches, chocolate, luxury goods, and any products imported from Switzerland",
+    "original_article": {
+      "link": "https://www.marketwatch.com/story/dollar-jumps-0-5-to-0-8890-francs-047c6b4d?mod=mw_rss_realtimeheadlines",
+      "source": "MarketWatch Economy",
+      "published": "Thu, 12 Dec 2024 08:32:00 GMT",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Costco to flow tariff refunds, ‘if and when’ received, back to customers",
+    "summary": "Costco promises to pass along any tariff refunds they receive to customers through lower prices. However, the timing and amount of these refunds is uncertain since they depend on government policy decisions.",
+    "price_impact": "potential price decreases if tariff refunds received",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "electronics",
+      "clothing",
+      "furniture",
+      "toys",
+      "sports",
+      "health",
+      "beauty",
+      "auto"
+    ],
+    "affected_products": "wide range of imported goods sold at Costco warehouses",
+    "original_article": {
+      "link": "https://www.retaildive.com/news/costco-flow-tariff-refunds-if-when-received-back-customers/814050/",
+      "source": "Retail Dive",
+      "published": "Fri, 06 Mar 2026 12:15:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Gap revival crystallizes as sales jump 8% in Q4",
+    "summary": "Gap is facing higher costs due to tariffs, which typically get passed on to consumers through higher clothing prices. While Gap's sales are strong, the company is dealing with squeezed profit margins that often lead retailers to raise prices to maintain profitability.",
+    "price_impact": "Margin erosion likely leading to 3-7% price increases on Gap clothing",
+    "urgency": "30-days",
+    "affected_categories": [
+      "clothing"
+    ],
+    "affected_products": "Gap brand clothing, jeans, casual wear, and accessories",
+    "original_article": {
+      "link": "https://www.retaildive.com/news/gap-revival-crystallizes-sales-jump-q4/814003/",
+      "source": "Retail Dive",
+      "published": "Fri, 06 Mar 2026 11:31:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "All Eddie Bauer stores to close after failure to find a buyer",
+    "summary": "Eddie Bauer store closures will reduce competition in the outdoor clothing market, likely leading to higher prices at remaining retailers like Patagonia and REI. Consumers may face fewer sales and promotional opportunities for jackets, hiking gear, and casual wear.",
+    "price_impact": "10-20% increase on outdoor apparel at remaining retailers",
+    "urgency": "30-days",
+    "affected_categories": [
+      "clothing",
+      "sports"
+    ],
+    "affected_products": "outdoor jackets, hiking boots, casual wear, camping gear, fleece clothing",
+    "original_article": {
+      "link": "https://www.retaildive.com/news/all-eddie-bauer-stores-close-after-failure-find-buyer/814052/",
+      "source": "Retail Dive",
+      "published": "Fri, 06 Mar 2026 11:28:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Victoria’s Secret & Co. ends Adore Me subscription offering",
+    "summary": "Victoria's Secret is ending its Adore Me subscription service, which means customers who used this monthly lingerie subscription will need to find alternatives or shop individually. This likely means losing any subscription discounts and having to pay regular retail prices for intimates.",
+    "price_impact": "service discontinuation - no direct price change",
+    "urgency": "immediate",
+    "affected_categories": [
+      "clothing"
+    ],
+    "affected_products": "lingerie and intimates subscription boxes",
+    "original_article": {
+      "link": "https://www.retaildive.com/news/victorias-secret-ends-adore-me-subscription-strategic-review-daily-look/813902/",
+      "source": "Retail Dive",
+      "published": "Thu, 05 Mar 2026 12:23:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Tariff refunds: Court provides first step with liquidation order",
+    "summary": "This court ruling could lead to refunds on tariffs paid for certain imported goods, potentially resulting in lower prices for consumers on products that were subject to now-defunct tariffs. The savings would depend on which specific tariffs are removed and whether retailers pass those savings to consumers.",
+    "price_impact": "potential savings of 5-25% on previously tariffed imports",
+    "urgency": "90-days",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "furniture",
+      "toys",
+      "auto"
+    ],
+    "affected_products": "imported goods subject to removed tariffs including electronics, home appliances, clothing, and other consumer products",
+    "original_article": {
+      "link": "https://www.retaildive.com/news/tariff-refunds-court-of-international-trade-process-cbp/813890/",
+      "source": "Retail Dive",
+      "published": "Thu, 05 Mar 2026 11:23:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Grocery prices are set to rise in 2026",
+    "summary": "Grocery bills are expected to rise in 2026, with beef, non-alcoholic drinks, and sugary items seeing the biggest price jumps. Families should prepare for higher food costs that will impact their weekly shopping budgets.",
+    "price_impact": "faster price increases on beef, beverages, sugar and sweets",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food"
+    ],
+    "affected_products": "beef, non-alcoholic beverages, sugar and sweets",
+    "original_article": {
+      "link": "https://www.fooddive.com/news/food-at-home-prices-increase-2026-usda/813906/",
+      "source": "Food Dive",
+      "published": "Thu, 05 Mar 2026 11:04:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Reese’s didn’t change its chocolate because of corporate greed. It was climate change.",
+    "summary": "Climate change is forcing food companies like Hershey to adjust recipes for products like Reese's due to supply chain disruptions in ingredients. While this may not immediately impact prices, it represents ongoing quality changes consumers may notice in familiar products as companies adapt to climate-related agricultural challenges.",
+    "price_impact": "minimal price change, recipe adjustment",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food"
+    ],
+    "affected_products": "Reese's peanut butter cups, chocolate candy products",
+    "original_article": {
+      "link": "https://www.fooddive.com/news/hershey-reeses-ingredients-chocolate-climate-change-oped/813903/",
+      "source": "Food Dive",
+      "published": "Thu, 05 Mar 2026 10:45:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Shock Top owner Tilray buys craft brewer BrewDog for $44M",
+    "summary": "This corporate acquisition may eventually affect craft beer prices as Tilray integrates BrewDog into its portfolio. Consumers might see changes in product availability, pricing, or quality as the new ownership restructures operations, but immediate price impacts are unlikely.",
+    "price_impact": "uncertain - could see modest price changes on craft beer",
+    "urgency": "long-term",
+    "affected_categories": [
+      "alcohol"
+    ],
+    "affected_products": "BrewDog craft beer products and potentially other craft beer brands",
+    "original_article": {
+      "link": "https://www.fooddive.com/news/shock-top-owner-tilray-buys-craft-brewer-brewdog-for-44m/813771/",
+      "source": "Food Dive",
+      "published": "Wed, 04 Mar 2026 11:00:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "General Mills inks heat and power agreement expected to save $30M",
+    "summary": "General Mills' $30 million annual energy savings could eventually lead to lower prices or slower price increases on their food products like Cheerios, Betty Crocker, and Pillsbury items. However, these manufacturing cost savings typically take time to flow through to retail prices and may be offset by other cost pressures.",
+    "price_impact": "potential modest savings on General Mills products",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food"
+    ],
+    "affected_products": "Cheerios, Betty Crocker baking products, Pillsbury items, Nature Valley bars, and other General Mills branded foods",
+    "original_article": {
+      "link": "https://www.fooddive.com/news/general-mills-heat-and-power-agreement-save-30m/813762/",
+      "source": "Food Dive",
+      "published": "Wed, 04 Mar 2026 09:46:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "CBP says it can’t comply with court order for tariff refunds yet",
+    "summary": "Consumers who paid higher prices for imported goods due to Trump-era tariffs may be eligible for refunds, but must wait at least 45 days for the government to set up the refund process. This could mean getting money back on purchases like electronics, appliances, and other imported items that had tariff costs passed through to consumers.",
+    "price_impact": "potential refunds of 7.5-25% on affected imported goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "auto",
+      "furniture",
+      "clothing"
+    ],
+    "affected_products": "imported electronics, appliances, furniture, clothing, automotive parts, and other goods subject to Trump administration tariffs",
+    "original_article": {
+      "link": "https://www.supplychaindive.com/news/trump-tariff-refunds-cbp-says-it-cant-comply-cit/814078/",
+      "source": "Supply Chain Dive",
+      "published": "Fri, 06 Mar 2026 14:05:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Can reshoring and onshoring deliver manufacturing sustainability benefits?",
+    "summary": "Companies are considering moving production back to the US partly due to tariff costs on imported goods. While this could eventually reduce some price increases from tariffs, the transition will likely take years and domestic production may initially cost more than overseas manufacturing.",
+    "price_impact": "varies by product - potentially 10-25% increases if tariff costs passed through",
+    "urgency": "long-term",
+    "affected_categories": [
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "manufactured goods currently imported that may be reshored domestically",
+    "original_article": {
+      "link": "https://www.supplychaindive.com/news/can-reshoring-deliver-manufacturing-sustainability-benefits/811685/",
+      "source": "Supply Chain Dive",
+      "published": "Fri, 06 Mar 2026 09:53:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "States sue Trump in bid to halt 10% global tariff",
+    "summary": "A 10% global tariff would raise prices on nearly all imported products by roughly 10%, affecting everything from groceries to electronics. The lawsuit by states aims to block this tariff, but if unsuccessful, families could see hundreds of dollars added to their annual household expenses across multiple categories.",
+    "price_impact": "10% increase on most imported goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All imported goods including food, electronics, clothing, appliances, furniture, toys, beauty products, and automotive parts",
+    "original_article": {
+      "link": "https://www.supplychaindive.com/news/states-sue-trump-section-122-tariffs/814004/",
+      "source": "Supply Chain Dive",
+      "published": "Fri, 06 Mar 2026 07:27:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Honda limits tariff impact via logistics, procurement tweaks",
+    "summary": "Honda is using smart logistics and sourcing changes to keep car prices stable despite tariffs. However, they warn that future supply issues with rare earth materials from China could eventually lead to higher vehicle prices.",
+    "price_impact": "Limited increase due to mitigation efforts, but potential future increases if rare earth supply issues worsen",
+    "urgency": "long-term",
+    "affected_categories": [
+      "auto"
+    ],
+    "affected_products": "Honda vehicles, particularly hybrid and electric models that rely heavily on rare earth materials",
+    "original_article": {
+      "link": "https://www.supplychaindive.com/news/honda-cuts-tariff-hit-tackles-supply-gaps/813579/",
+      "source": "Supply Chain Dive",
+      "published": "Thu, 05 Mar 2026 12:01:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Food, beverage companies lagging on addressing forced labor risks: report",
+    "summary": "Companies may need to invest more in supply chain monitoring and switch to higher-cost suppliers to avoid forced labor, leading to gradual price increases on groceries and beverages. This represents a long-term shift toward more ethical sourcing that will likely be passed on to consumers.",
+    "price_impact": "3-7% increase on food and beverages",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "alcohol"
+    ],
+    "affected_products": "groceries, packaged foods, beverages, agricultural products",
+    "original_article": {
+      "link": "https://www.supplychaindive.com/news/food-beverage-companies-lagging-on-addressing-forced-labor-risks-supply-chain-bhrc/812853/",
+      "source": "Supply Chain Dive",
+      "published": "Thu, 05 Mar 2026 09:55:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Tariff refunds: Court provides first step with liquidation order",
+    "summary": "A court has ordered customs officials to remove certain expired tariffs when processing imports, which could lead to lower prices on various imported goods. This mainly affects products that had tariffs added in recent years but are now being removed from the final import costs.",
+    "price_impact": "potential savings of 5-25% on affected imported goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "imported goods with defunct tariffs being liquidated",
+    "original_article": {
+      "link": "https://www.supplychaindive.com/news/tariff-refunds-court-of-international-trade-process-cbp/813852/",
+      "source": "Supply Chain Dive",
+      "published": "Thu, 05 Mar 2026 09:50:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Hormel Foods faces transportation cost pressures",
+    "summary": "Hormel Foods is facing higher transportation and raw material costs for beef and pork, which will likely be passed on to consumers through higher prices at grocery stores. This affects popular products like SPAM, bacon, deli meats, and other packaged meat products that families regularly buy.",
+    "price_impact": "2-5% increase on meat products",
+    "urgency": "30-days",
+    "affected_categories": [
+      "food"
+    ],
+    "affected_products": "SPAM, bacon, deli meats, sausages, canned meats, frozen meat products",
+    "original_article": {
+      "link": "https://www.supplychaindive.com/news/hormel-foods-higher-transport-costs-tariffs/813668/",
+      "source": "Supply Chain Dive",
+      "published": "Thu, 05 Mar 2026 07:35:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Canada Post contract voting dates set, along with strike vote",
+    "summary": "A Canada Post strike could disrupt mail delivery and package shipping, potentially causing delays for online orders and increasing shipping costs as retailers switch to more expensive courier services. This mainly affects delivery times rather than product prices directly.",
+    "price_impact": "potential shipping delays and higher delivery costs, no direct price increase",
+    "urgency": "30-days",
+    "affected_categories": [
+      "clothing",
+      "electronics",
+      "health",
+      "beauty",
+      "toys"
+    ],
+    "affected_products": "mail delivery, package shipping, online orders, prescription medications by mail",
+    "original_article": {
+      "link": "https://www.supplychaindive.com/news/canada-post-contract-vote-cupw-dates/813620/",
+      "source": "Supply Chain Dive",
+      "published": "Wed, 04 Mar 2026 15:14:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "US to hike global tariff to 15% ‘sometime this week,’ Bessent says",
+    "summary": "A 15% global tariff means most imported products will become more expensive as companies pass these costs to consumers. This will affect everything from phones and laptops to clothes and household items, making everyday purchases cost significantly more.",
+    "price_impact": "10-15% increase on imported goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "furniture",
+      "toys",
+      "auto",
+      "construction",
+      "beauty",
+      "jewelry",
+      "sports",
+      "health"
+    ],
+    "affected_products": "Most imported consumer goods including smartphones, computers, clothing, home appliances, furniture, cars, and household items",
+    "original_article": {
+      "link": "https://www.supplychaindive.com/news/trump-tariffs-hike-section-301-investigations-bessent-greer/813781/",
+      "source": "Supply Chain Dive",
+      "published": "Wed, 04 Mar 2026 12:04:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "SK Battery America lays off nearly 1,000 workers at Georgia plant",
+    "summary": "SK Battery America's workforce reduction at their Georgia plant could reduce battery production capacity, potentially leading to supply shortages and higher prices for electric vehicles. This may slow EV adoption and keep electric car prices elevated as manufacturers compete for fewer available batteries.",
+    "price_impact": "potentially $500-2000 increase on electric vehicles",
+    "urgency": "90-days",
+    "affected_categories": [
+      "auto"
+    ],
+    "affected_products": "electric vehicle batteries and electric cars",
+    "original_article": {
+      "link": "https://www.manufacturingdive.com/news/sk-battery-america-lays-off-nearly-1000-workers-at-georgia-plant/814126/",
+      "source": "Manufacturing Dive",
+      "published": "Fri, 06 Mar 2026 18:01:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Novartis, Nucor partner US Forged Rings and others expand domestic investments",
+    "summary": "Companies are investing in domestic manufacturing facilities which could eventually lead to more stable supply chains and potentially lower costs for medical products, electrical components, and construction materials. These investments typically take years to fully impact consumer prices.",
+    "price_impact": "minimal immediate impact, potential 2-5% long-term cost reductions",
+    "urgency": "long-term",
+    "affected_categories": [
+      "health",
+      "appliances",
+      "construction"
+    ],
+    "affected_products": "pharmaceuticals, electrical switchboards, forged metal components for construction and appliances",
+    "original_article": {
+      "link": "https://www.manufacturingdive.com/news/novartis-us-forged-rings-akston-faith-technologies-investments/814034/",
+      "source": "Manufacturing Dive",
+      "published": "Fri, 06 Mar 2026 10:55:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Manufacturing lost 12,000 jobs in February",
+    "summary": "Job losses in plastics/rubber and transportation equipment manufacturing could lead to reduced production capacity and higher prices for cars, appliances, and plastic goods. While not immediate, consumers may see gradual price increases as supply tightens.",
+    "price_impact": "2-5% increase on affected products",
+    "urgency": "90-days",
+    "affected_categories": [
+      "auto",
+      "appliances",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "vehicles, car parts, plastic containers, rubber goods, household appliances with plastic components",
+    "original_article": {
+      "link": "https://www.manufacturingdive.com/news/manufacturing-jobs-12000-lossess-bls-february-2026/814020/",
+      "source": "Manufacturing Dive",
+      "published": "Fri, 06 Mar 2026 07:53:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "States sue Trump in bid to halt 10% global tariff",
+    "summary": "A 10% global tariff would increase prices on nearly all imported products by roughly 10%, affecting everything from smartphones to groceries. The lawsuit by states aims to block this tariff, which could significantly impact household budgets if implemented.",
+    "price_impact": "10% increase on most imported goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All imported goods including electronics, clothing, food items, appliances, furniture, and consumer goods",
+    "original_article": {
+      "link": "https://www.manufacturingdive.com/news/states-sue-trump-section-122-tariffs/814048/",
+      "source": "Manufacturing Dive",
+      "published": "Fri, 06 Mar 2026 07:27:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Tariff refunds: Court provides first step with liquidation order",
+    "summary": "A court ordered customs officials to remove certain expired tariffs when finalizing import paperwork, which could lead to lower prices on imported goods. This ruling may result in refunds or reduced costs for products that were subject to these defunct tariffs, though the specific savings will depend on which tariffs are removed and how retailers pass savings to consumers.",
+    "price_impact": "potential savings of 5-25% on previously tariffed goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "furniture",
+      "toys",
+      "auto"
+    ],
+    "affected_products": "imported goods subject to defunct tariffs including consumer electronics, home appliances, clothing, and other manufactured items",
+    "original_article": {
+      "link": "https://www.manufacturingdive.com/news/tariff-refunds-court-of-international-trade-process-cbp/813888/",
+      "source": "Manufacturing Dive",
+      "published": "Thu, 05 Mar 2026 10:06:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Manufacturing slump hit nonresidential construction spending in December",
+    "summary": "Reduced construction spending on infrastructure and commercial projects could lead to higher costs for future home construction and renovations as the industry adjusts capacity. This may also slow new housing supply, potentially putting upward pressure on home prices and rental costs.",
+    "price_impact": "2-5% increase on construction projects and home prices",
+    "urgency": "90-days",
+    "affected_categories": [
+      "construction",
+      "realestate"
+    ],
+    "affected_products": "home construction, renovations, commercial real estate, rental housing",
+    "original_article": {
+      "link": "https://www.manufacturingdive.com/news/manufacturing-slump-drags-down-nonresidential-construction-spending/813747/",
+      "source": "Manufacturing Dive",
+      "published": "Wed, 04 Mar 2026 08:22:00 -0500",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Why the Northeast is quietly running out of diesel",
+    "summary": "Diesel shortages will drive up transportation costs for trucks delivering virtually all consumer goods to Northeast stores. This means higher prices on groceries, household items, and most products that need to be shipped, plus more expensive diesel fuel at gas stations.",
+    "price_impact": "3-8% increase on most goods, $0.10-0.30 per gallon diesel price increase",
+    "urgency": "30-days",
+    "affected_categories": [
+      "food",
+      "energy",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "groceries, household goods, retail merchandise, diesel fuel, heating oil",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/why-the-northeast-is-quietly-running-out-of-diesel",
+      "source": "Freight Waves",
+      "published": "Thu, 12 May 2022 15:46:28 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Exclusive: Central Freight Lines to shut down after 96 years",
+    "summary": "The shutdown of this major freight company will reduce shipping capacity, forcing businesses to use more expensive alternatives or face delays. This will likely lead to modest price increases on many consumer goods as companies pass along higher transportation costs to customers.",
+    "price_impact": "1-3% increase on shipped goods in affected regions",
+    "urgency": "30-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "General consumer goods shipped via LTL (less-than-truckload) freight in regions served by Central Freight Lines",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/exclusive-central-freight-lines-to-shut-down-after-96-years",
+      "source": "Freight Waves",
+      "published": "Mon, 13 Dec 2021 22:15:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Warehouse cramming is about to begin — Freightonomics",
+    "summary": "Companies are rushing to fill warehouses with imported goods before expected tariffs take effect, which will likely lead to higher prices on many consumer products. This warehouse 'cramming' suggests businesses expect significant cost increases that will be passed on to consumers.",
+    "price_impact": "2-5% increase on imported goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "toys",
+      "furniture",
+      "auto"
+    ],
+    "affected_products": "imported consumer goods, household items, seasonal merchandise",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/warehouse-cramming-is-about-to-begin-freightonomics",
+      "source": "Freight Waves",
+      "published": "Thu, 12 Aug 2021 20:10:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Seasonality pushing rejections and rates higher ahead of the Fourth",
+    "summary": "Rising freight and shipping costs mean retailers will likely pass higher transportation expenses to consumers through increased prices on most goods that need to be shipped. This affects nearly everything you buy online or that gets delivered to stores, from groceries to electronics.",
+    "price_impact": "2-5% increase on shipped goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All shipped consumer goods including online purchases, retail inventory, and delivered products",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/seasonality-pushing-rejections-and-rates-higher-ahead-of-the-fourth",
+      "source": "Freight Waves",
+      "published": "Sun, 27 Jun 2021 18:00:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Borderlands Mexico: Authorities move to cancel permits for 350 Mexican steel importers",
+    "summary": "Canceling permits for 350 Mexican steel importers will likely reduce steel supply and increase prices for products that use steel as a key component. This means higher costs for major appliances, construction materials, and vehicles over the next few months.",
+    "price_impact": "3-8% increase on steel-dependent products",
+    "urgency": "90-days",
+    "affected_categories": [
+      "construction",
+      "appliances",
+      "auto"
+    ],
+    "affected_products": "washing machines, refrigerators, cars, trucks, construction materials, tools, furniture with steel frames",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/borderlands-mexico-authorities-move-to-cancel-permits-for-350-mexican-steel-importers",
+      "source": "Freight Waves",
+      "published": "Sun, 08 Mar 2026 11:00:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Rapid fuel price jump hits transportation hard",
+    "summary": "Higher diesel costs will be passed on to consumers through increased prices on nearly everything that gets shipped by truck. This includes groceries, online purchases, and retail goods since transportation is a key cost component.",
+    "price_impact": "2-5% increase on most transported goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "groceries, retail merchandise, online orders, construction materials",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/rapid-fuel-price-jump-hits-transportation-hard",
+      "source": "Freight Waves",
+      "published": "Sun, 08 Mar 2026 01:30:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Here’s where container rates will go in extended Iran war",
+    "summary": "Higher shipping costs from Persian Gulf disruptions will increase prices on imported goods like electronics, clothing, and household items. Retailers will pass these shipping cost increases to consumers within 4-8 weeks as current inventory sells through.",
+    "price_impact": "10-25% increase on imported goods from Asia/Middle East",
+    "urgency": "30-days",
+    "affected_categories": [
+      "electronics",
+      "clothing",
+      "appliances",
+      "auto",
+      "furniture",
+      "toys",
+      "beauty",
+      "health"
+    ],
+    "affected_products": "smartphones, laptops, clothing, home appliances, furniture, automotive parts, cosmetics, medical supplies",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/heres-where-container-rates-will-go-in-extended-iran-war",
+      "source": "Freight Waves",
+      "published": "Fri, 06 Mar 2026 21:06:10 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Air cargo shippers scramble to mitigate Iran war impacts",
+    "summary": "War disruptions in Iran are forcing cargo planes to take longer routes, making air shipping much more expensive. This will quickly raise prices on items that need fast delivery like electronics, medicines, and seasonal goods that typically fly rather than ship by sea.",
+    "price_impact": "10-25% increase on air-shipped goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "electronics",
+      "clothing",
+      "appliances",
+      "toys",
+      "health",
+      "beauty"
+    ],
+    "affected_products": "smartphones, laptops, prescription medications, fashion items, small appliances, holiday merchandise",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/air-cargo-shippers-scramble-to-mitigate-iran-war-impacts",
+      "source": "Freight Waves",
+      "published": "Fri, 06 Mar 2026 19:10:38 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "White Paper: 7 Reasons Security Guards Aren’t Enough Protection",
+    "summary": "Cargo theft increases shipping costs and supply chain disruptions, which companies typically pass on to consumers through higher retail prices. While not directly tariff-related, increased security costs for freight protection affect the cost of virtually all shipped goods.",
+    "price_impact": "1-3% increase on shipped goods",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All consumer goods that require shipping and warehousing",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/white-paper-7-reasons-security-guards-arent-enough-protection",
+      "source": "Freight Waves",
+      "published": "Fri, 06 Mar 2026 15:48:16 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Trucking jobs post slight decline in unexpected total payroll drop",
+    "summary": "A decline in trucking jobs could signal reduced shipping capacity, potentially leading to higher transportation costs that get passed on to consumers. This affects nearly all physical goods since trucking is the final step in most supply chains, though the impact may be gradual.",
+    "price_impact": "1-3% increase on most goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "energy"
+    ],
+    "affected_products": "All shipped consumer goods including groceries, household items, and retail merchandise",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/trucking-jobs-post-slight-decline-in-unexpected-total-payroll-drop",
+      "source": "Freight Waves",
+      "published": "Fri, 06 Mar 2026 15:38:57 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Intermodal lags carloads in latest U.S. rail freight data",
+    "summary": "When intermodal rail transport (which moves shipping containers from ports inland) slows down relative to other rail freight, it can create bottlenecks for imported goods moving from ports to distribution centers. This could lead to supply chain delays and modest price increases on many consumer products that rely on container shipping from overseas.",
+    "price_impact": "1-3% increase on imported goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "imported consumer goods, retail merchandise, manufactured products",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/intermodal-lags-carloads-in-latest-u-s-rail-freight-data",
+      "source": "Freight Waves",
+      "published": "Fri, 06 Mar 2026 11:00:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "GlobalX Airlines shelves 2 Airbus cargo aircraft amid thin demand",
+    "summary": "Reduced cargo capacity could lead to higher shipping costs for imported goods, which retailers may pass on to consumers through slightly higher prices. The impact will be gradual as existing inventory sells through and replacement goods cost more to transport.",
+    "price_impact": "2-5% increase on imported goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "electronics",
+      "clothing",
+      "appliances",
+      "auto",
+      "furniture",
+      "toys",
+      "health",
+      "beauty"
+    ],
+    "affected_products": "imported consumer goods requiring air freight",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/globalx-airlines-shelves-2-airbus-cargo-aircraft-amid-thin-demand",
+      "source": "Freight Waves",
+      "published": "Thu, 05 Mar 2026 18:04:49 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "SONAR Launches New Geopolitical Alert and Fuel Dashboards to Help Supply Chains Navigate Iran Conflict Volatility",
+    "summary": "Iran conflict could disrupt oil shipments and global supply chains, leading to higher gas prices and increased costs for imported products. Supply chain monitoring tools like this suggest companies are preparing for potential price increases that would be passed on to consumers.",
+    "price_impact": "5-15% increase on fuel and energy costs, 2-5% on imported goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "energy",
+      "food",
+      "electronics",
+      "auto",
+      "appliances"
+    ],
+    "affected_products": "gasoline, heating oil, imported electronics, food products, automotive parts",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/sonar-launches-new-geopolitical-alert-and-fuel-dashboards-to-help-supply-chains-navigate-iran-conflict-volatility",
+      "source": "Freight Waves",
+      "published": "Thu, 05 Mar 2026 15:05:45 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "54% of distributors seek demand forecasting overhaul in 2026, report finds",
+    "summary": "When distributors change how they predict demand, it can lead to temporary supply disruptions and price volatility across many products. Better forecasting should eventually stabilize prices, but the transition period in 2026 may cause some items to be out of stock or cost more.",
+    "price_impact": "2-5% increase across various goods",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "furniture",
+      "health"
+    ],
+    "affected_products": "Wide range of distributed goods including household items, consumer electronics, clothing, and everyday essentials",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/54-of-distributors-seek-demand-forecasting-overhaul-in-2026-report-finds",
+      "source": "Freight Waves",
+      "published": "Thu, 05 Mar 2026 13:00:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Fleet buying spree signals trucking down-cycle may be turning",
+    "summary": "Trucking companies are buying more trucks as the industry recovers, which should increase shipping capacity and reduce freight costs. This could lead to lower prices on most goods that need to be transported to stores, from groceries to furniture.",
+    "price_impact": "2-5% decrease on shipped goods over time",
+    "urgency": "90-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "most consumer goods requiring truck transportation",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/fleet-buying-spree-signals-trucking-down-cycle-may-be-turning",
+      "source": "Freight Waves",
+      "published": "Thu, 05 Mar 2026 12:30:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Wabash launches cargo assurance solution to help prevent theft before it occurs",
+    "summary": "This cargo security technology could help reduce theft during shipping, which may lead to slightly lower prices for consumers as companies lose less inventory to theft. The savings would be modest but could apply to most products that are shipped by truck.",
+    "price_impact": "1-3% decrease on shipped goods over time",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All goods transported by truck including consumer electronics, clothing, food products, appliances, and general merchandise",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/wabash-cargo-assurance-solution",
+      "source": "Freight Waves",
+      "published": "Thu, 05 Mar 2026 12:00:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Why an obscure rail tax credit should matter to truckers",
+    "summary": "Rail tax credits help keep shipping costs lower for railroads, which transport many everyday goods across the country. If these credits are reduced or eliminated, railroads may pass higher costs to shippers, eventually leading to higher prices on groceries, household goods, and other products that rely on rail transport.",
+    "price_impact": "1-3% increase on goods transported by rail",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "energy"
+    ],
+    "affected_products": "bulk commodities, consumer goods shipped long distances, agricultural products",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/why-an-obscure-rail-tax-credit-should-matter-to-truckers",
+      "source": "Freight Waves",
+      "published": "Thu, 05 Mar 2026 04:54:10 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Lawmaker pushes for ICE coordination in CDL crackdowns",
+    "summary": "Removing truck drivers from the road could reduce transportation capacity and increase shipping costs for goods. This would likely result in higher prices for most products that need to be transported, from groceries to household items.",
+    "price_impact": "2-5% increase on transported goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "furniture",
+      "energy"
+    ],
+    "affected_products": "All goods requiring truck transportation including groceries, retail merchandise, construction materials, and fuel",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/lawmaker-pushes-for-ice-coordination-in-cdl-crackdowns",
+      "source": "Freight Waves",
+      "published": "Thu, 05 Mar 2026 00:02:41 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "FMCSA purges dozens of ELDs amid compliance crackdown",
+    "summary": "When trucking companies must replace non-compliant electronic logging devices, they face equipment costs and potential service disruptions that get passed on to consumers. This affects virtually all retail goods since most products rely on trucking for delivery to stores and warehouses.",
+    "price_impact": "1-3% increase across transported goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All retail goods dependent on truck transportation",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/fmcsa-purges-dozens-of-elds-amid-compliance-crackdown",
+      "source": "Freight Waves",
+      "published": "Wed, 04 Mar 2026 16:29:33 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Old Dominion ‘encouraged’ as declines moderate in February",
+    "summary": "Old Dominion's improving freight volumes suggest shipping costs may stabilize or decrease slightly, which could lead to modest price reductions on goods that rely on trucking for delivery. This positive trend in freight recovery may help reduce the transportation component of product prices over the coming months.",
+    "price_impact": "1-3% potential decrease in shipping costs across consumer goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "manufactured goods, retail products, and consumer items transported by truck",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/old-dominion-encouraged-as-declines-moderate-in-february",
+      "source": "Freight Waves",
+      "published": "Wed, 04 Mar 2026 15:21:08 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "DHL Express workers threaten strike if no contract by March 31",
+    "summary": "A DHL Express strike would disrupt international shipping and express delivery services, leading to higher shipping costs and longer delivery times for online purchases. Consumers ordering items from overseas or needing express delivery may face significant delays or have to pay premium rates for alternative shipping services.",
+    "price_impact": "10-20% increase on express shipping costs, potential product delays",
+    "urgency": "30-days",
+    "affected_categories": [
+      "electronics",
+      "clothing",
+      "appliances",
+      "auto",
+      "beauty",
+      "jewelry",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "International packages, express deliveries, e-commerce shipments",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/dhl-express-workers-threaten-to-strike-if-no-contract-by-march-31",
+      "source": "Freight Waves",
+      "published": "Wed, 04 Mar 2026 15:15:17 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Broker liability at the Supreme Court: real-time coverage as the arguments are made",
+    "summary": "This Supreme Court case could change how freight brokers are held responsible for shipping problems, potentially making shipping more expensive if brokers face higher liability costs. Higher shipping costs typically get passed on to consumers through slightly higher prices on nearly all products that need to be transported.",
+    "price_impact": "1-3% increase on shipped goods",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All consumer goods requiring freight transportation",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/broker-liability-at-the-supreme-court-real-time-coverage-as-the-arguments-are-made",
+      "source": "Freight Waves",
+      "published": "Wed, 04 Mar 2026 13:55:19 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "US-Mexico trade hits new high of $872B in 2025",
+    "summary": "Record-high trade with Mexico suggests a strong, stable trading relationship that helps keep prices competitive on many everyday goods. This robust trade flow typically benefits consumers by maintaining supply chains and preventing price spikes on Mexican imports.",
+    "price_impact": "Neutral to positive - strengthened trade relationship may maintain stable prices",
+    "urgency": "long-term",
+    "affected_categories": [
+      "auto",
+      "food",
+      "electronics",
+      "appliances",
+      "clothing",
+      "energy",
+      "furniture"
+    ],
+    "affected_products": "Cars, auto parts, agricultural products, manufactured goods, textiles, and energy products",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/us-mexico-trade-hits-new-high-of-872b-in-2025",
+      "source": "Freight Waves",
+      "published": "Wed, 04 Mar 2026 12:00:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Feds signal pivot on East Coast shipping speed rules",
+    "summary": "Removing speed restrictions on East Coast shipping could allow cargo ships to move faster, potentially reducing shipping times and costs for imported goods. This could lead to modest price decreases on a wide range of consumer products that arrive through East Coast ports.",
+    "price_impact": "1-3% decrease on imported goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "imported consumer goods arriving through East Coast ports",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/feds-signal-pivot-on-east-coast-shipping-speed-rules",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 23:05:16 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Straightship, Dragonfly partner on turnkey U.S.-to-Canada e-commerce service",
+    "summary": "This partnership could lower shipping costs for Americans ordering products from Canadian retailers or vice versa by streamlining the cross-border delivery process. The improved efficiency may reduce delivery times and customs delays, potentially saving consumers money on international shipping fees.",
+    "price_impact": "potential 2-5% reduction in shipping costs for cross-border orders",
+    "urgency": "30-days",
+    "affected_categories": [
+      "electronics",
+      "clothing",
+      "appliances",
+      "beauty",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "online purchases shipped between US and Canada",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/straightship-dragonfly-partnership",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 21:06:28 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Kuehne+Nagel to layoff 2,000 workers amid weak demand, AI push",
+    "summary": "Kuehne+Nagel is a major global shipping company, and their workforce cuts could reduce shipping capacity and increase logistics costs. This may lead to higher prices on imported goods as remaining shipping services become more expensive due to reduced competition and capacity.",
+    "price_impact": "2-5% increase on shipped goods",
+    "urgency": "90-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "imported consumer goods, online purchases, retail merchandise",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/kuehnenagel-to-layoff-2000-workers-amid-weak-demand-ai-push",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 21:06:18 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "DOT warns motor carriers on RTD noncompliance",
+    "summary": "Truck driver compliance issues could disrupt freight transportation, leading to delivery delays and higher shipping costs that get passed on to consumers. This affects virtually all goods that rely on trucking for delivery to stores and homes.",
+    "price_impact": "1-3% increase on transported goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All consumer goods transported by truck",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/dot-warns-motor-carriers-on-rtd-noncompliance",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 21:00:13 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Diesel futures and retail prices power higher, outstripping gains in crude",
+    "summary": "Rising diesel prices will immediately increase costs at gas stations for diesel vehicle owners and truckers. Since diesel powers most freight trucks, expect higher prices on groceries, construction materials, and other goods that rely on trucking for delivery within weeks.",
+    "price_impact": "10-20% increase on diesel fuel and diesel-dependent goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "food",
+      "construction"
+    ],
+    "affected_products": "diesel fuel, trucking costs, delivered goods including groceries and construction materials",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/diesel-futures-and-retail-prices-power-higher-outstripping-gains-in-crude",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 20:55:32 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "How to Turn Fleet Data Noise Into Signal",
+    "summary": "Better fleet data management can help trucking companies operate more efficiently, potentially reducing shipping costs that get passed on to consumers. While not directly related to tariffs, improved logistics efficiency could help offset some price increases on virtually all goods that require transportation.",
+    "price_impact": "indirect cost reduction potential of 2-5% on transported goods",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "energy",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "all consumer goods requiring trucking/transportation",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/how-to-turn-fleet-data-noise-into-signal",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 19:47:23 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Saia’s tonnage declines moderate in February",
+    "summary": "Less freight being moved by trucking companies like Saia typically means reduced shipping capacity, which can lead to higher transportation costs that get passed on to consumers. This affects prices of most goods that need to be shipped to stores and your home.",
+    "price_impact": "1-3% increase on shipped goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "all consumer goods requiring ground transportation",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/saias-tonnage-declines-moderate-in-february",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 19:26:49 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Laredo secures $58M rail grant to speed up Texas border freight",
+    "summary": "This rail infrastructure improvement will help goods move faster across the Texas-Mexico border, potentially reducing shipping costs and delays. Over time, this could lead to slightly lower prices on many imported products as supply chains become more efficient.",
+    "price_impact": "1-3% decrease on imported goods over time",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "imported goods from Mexico including automotive parts, electronics, textiles, food products, and manufactured goods",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/laredo-secures-58m-rail-grant-to-speed-up-texas-border-freight",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 16:00:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "LMI: Freight market recovery in ‘full-swing’",
+    "summary": "A recovering freight market typically means higher shipping costs as demand for transportation services increases. These increased logistics costs get passed down to consumers through higher prices on nearly all physical goods that need to be transported to stores.",
+    "price_impact": "2-5% increase across transported goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All physical goods requiring transportation including groceries, household items, vehicles, and retail merchandise",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/logistics-managers-index-freight-recovery-in-full-swing",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 15:21:13 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "As shipping contract talks begin, Suez Canal traffic “flowing normally,” absent major lines",
+    "summary": "Major shipping lines are avoiding the Suez Canal due to regional conflicts, forcing longer routes around Africa that increase shipping costs. These higher transportation costs will likely be passed on to consumers through price increases on imported goods from Asia and Europe.",
+    "price_impact": "2-5% increase on imported goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "electronics",
+      "clothing",
+      "appliances",
+      "furniture",
+      "toys",
+      "auto",
+      "beauty"
+    ],
+    "affected_products": "Consumer electronics, clothing, home appliances, furniture, toys, car parts, beauty products",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/as-shipping-contract-talks-begin-suez-canal-traffic-flowing-normally-absent-major-lines",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 15:11:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "VIDEO: Iran attacks refineries; CMA CGM shuts down all cargo bookings to Middle East",
+    "summary": "Shipping disruptions from the Middle East will increase costs for many imported products as companies find alternative routes or face delays. Gas prices may rise due to oil refinery attacks affecting global supply.",
+    "price_impact": "5-15% increase on imported goods, $0.10-0.30 per gallon gas increase",
+    "urgency": "30-days",
+    "affected_categories": [
+      "energy",
+      "food",
+      "electronics",
+      "clothing",
+      "appliances",
+      "auto",
+      "construction",
+      "beauty",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "gasoline, imported consumer goods, electronics from Asia, clothing, household items",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/video-iran-attacks-refineries-cma-cgm-shuts-down-all-cargo-bookings-to-middle-east",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 14:52:39 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Thoma Bravo to acquire WWEX Group, combine with Auctane",
+    "summary": "This merger creates a larger shipping and logistics company that could potentially lead to higher shipping costs across most online purchases. While the immediate impact may be minimal, consolidation in the shipping industry typically reduces competition and can result in higher delivery fees over time.",
+    "price_impact": "1-3% increase on shipped goods",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "online purchases requiring shipping services",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/thoma-bravo-to-acquire-wwex-group-combine-with-auctane",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 13:55:57 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Pilot had weaker performance in ‘25: Berkshire letter",
+    "summary": "Pilot operates truck stops and fuel stations across the country, so their weaker performance could lead to higher gas prices or reduced services at their locations. This may affect fuel costs for drivers who rely on Pilot stations for gas and diesel.",
+    "price_impact": "potential 2-5% increase on fuel costs",
+    "urgency": "30-days",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, diesel fuel, truck stop services",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/pilot-had-weaker-performance-in-25-berkshire-letter",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 12:00:00 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Florida’s Fields Are Hurting – What That Means for Reefer Freight Right Now",
+    "summary": "Severe cold weather damaged Florida's agricultural crops, reducing supply of fresh fruits and vegetables. This will drive up grocery prices for produce items like citrus, tomatoes, and other winter crops that Florida typically supplies to much of the country.",
+    "price_impact": "10-25% increase on fresh produce",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food"
+    ],
+    "affected_products": "citrus fruits, tomatoes, peppers, leafy greens, strawberries, other fresh produce",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/floridas-fields-are-hurting-what-that-means-for-reefer-freight-right-now",
+      "source": "Freight Waves",
+      "published": "Tue, 03 Mar 2026 04:18:02 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "The Iran war, diesel fuel, and a tired  infrastructure story",
+    "summary": "Diesel fuel powers most trucks that deliver goods to stores, so higher diesel prices from potential Iran conflict and refining bottlenecks will increase shipping costs. This means more expensive gas at the pump and higher prices on nearly everything you buy since most products are transported by diesel trucks.",
+    "price_impact": "10-25% increase on fuel costs, 3-8% increase on most goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "energy",
+      "food",
+      "construction",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "furniture"
+    ],
+    "affected_products": "gasoline, diesel fuel, groceries, retail goods, building materials, home deliveries",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/the-iran-war-diesel-fuel-and-a-tired-infrastructure-story",
+      "source": "Freight Waves",
+      "published": "Mon, 02 Mar 2026 20:23:24 +0000",
+      "published_parsed": null,
+      "fetched_date": ""
+    }
+  },
+  {
+    "title": "Crude oil rockets past $100 as markets lose hope for a quick resolution in Iran",
+    "summary": "Rising crude oil prices directly translate to higher gasoline prices at the pump, increasing your weekly fuel costs. This affects your commuting budget and the cost of goods that require transportation to reach stores.",
+    "price_impact": "$0.20-0.40 increase per gallon of gasoline",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, diesel fuel, heating oil",
+    "original_article": {
+      "link": "https://www.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100",
+      "source": "NPR Topics: Business",
+      "published": "Sun, 08 Mar 2026 21:24:34 -0400",
+      "published_parsed": [
+        2026,
+        3,
+        9,
+        1,
+        24,
+        34,
+        0,
+        68,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:43.011366"
+    }
+  },
+  {
+    "title": "Dow futures sink more than 1,000 points, oil prices surge up to 30% as Iran conflict rages",
+    "summary": "Oil prices surging above $100 per barrel will immediately increase gas prices at the pump by 25-30%. This will also drive up costs for transportation-dependent goods like groceries and other essentials within weeks.",
+    "price_impact": "25-30% increase on gas prices, ripple effects on other goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "food",
+      "auto"
+    ],
+    "affected_products": "gasoline, diesel fuel, heating oil, airline tickets, food prices, shipping costs",
+    "original_article": {
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "Mon, 09 Mar 2026 02:58:00 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        9,
+        2,
+        58,
+        0,
+        0,
+        68,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:43.177133"
+    }
+  },
+  {
+    "title": "Oil prices are the No. 1 thing investors are watching right now. Here’s why.",
+    "summary": "Rising oil prices directly increase gasoline and heating costs for households. Higher energy costs also make transportation more expensive, which can drive up prices for groceries and other goods that need to be shipped to stores.",
+    "price_impact": "10-20 cents per gallon at gas pumps, 3-5% increase on heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "auto",
+      "food",
+      "construction"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas, diesel fuel, airline tickets, shipping costs",
+    "original_article": {
+      "link": "https://www.marketwatch.com/story/oil-prices-are-the-no-1-thing-investors-are-watching-right-now-heres-why-171942dc?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "Sun, 08 Mar 2026 22:27:00 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        8,
+        22,
+        27,
+        0,
+        6,
+        67,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:43.177151"
+    }
+  },
+  {
+    "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
+    "summary": "While this article only mentions diplomatic preparations for a potential US-China meeting, any changes in trade relations could affect prices on many everyday items imported from China. However, since this is just about meeting preparations and no specific trade policies are discussed, any consumer impact remains uncertain and would likely take months to materialize.",
+    "price_impact": "potential 10-25% increase on Chinese imports",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "toys",
+      "furniture"
+    ],
+    "affected_products": "smartphones, laptops, home appliances, clothing, children's toys, furniture",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
+      "source": "Finance",
+      "published": "Sun, 08 Mar 2026 07:17:53 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        8,
+        7,
+        17,
+        53,
+        6,
+        67,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:49.966910"
+    }
+  },
+  {
+    "title": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks",
+    "summary": "Rising oil prices due to U.S.-Iran tensions will quickly translate to higher gas prices at the pump and increased heating costs. This geopolitical conflict creates supply disruption fears that drive up energy costs for consumers.",
+    "price_impact": "10-25% increase on gasoline and heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/06/iran-war-oil-energy-emerging-markets-stocks-south-korea.html",
+      "source": "Finance",
+      "published": "Fri, 06 Mar 2026 17:52:33 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        6,
+        17,
+        52,
+        33,
+        4,
+        65,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:49.966946"
+    }
+  },
+  {
+    "title": "States led by New York sue to block Trump's latest tariffs, calling them an illegal end run around Supreme Court",
+    "summary": "States are suing to block Trump's new tariffs, which creates uncertainty about future prices on imported goods. If the tariffs go through, consumers could see higher prices on many everyday items, but the legal challenge means the outcome is unclear.",
+    "price_impact": "uncertain - depends on court outcome",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics",
+      "appliances",
+      "clothing",
+      "auto",
+      "furniture"
+    ],
+    "affected_products": "imported goods subject to tariffs",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/05/trump-tariffs-state-ags-sue-supreme-court-decision.html",
+      "source": "Finance",
+      "published": "Thu, 05 Mar 2026 20:19:25 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        5,
+        20,
+        19,
+        25,
+        3,
+        64,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:49.966969"
+    }
+  },
+  {
+    "title": "Iran war and stocks: Why Global X says 'it might be time to double down' on emerging markets",
+    "summary": "Potential conflict with Iran could disrupt global supply chains and increase costs for goods imported from emerging market countries. This would likely lead to higher prices on everyday items like food, electronics, and especially energy costs at the gas pump.",
+    "price_impact": "5-15% increase on imported goods from emerging markets",
+    "urgency": "30-days",
+    "affected_categories": [
+      "energy",
+      "food",
+      "electronics"
+    ],
+    "affected_products": "gasoline, imported food items, consumer electronics, raw materials",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/05/iran-war-and-stocks-global-x-says-double-down-on-emerging-markets.html",
+      "source": "Finance",
+      "published": "Thu, 05 Mar 2026 12:00:01 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        5,
+        12,
+        0,
+        1,
+        3,
+        64,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:49.966995"
+    }
+  },
+  {
+    "title": "The momentum trades of 2026 are breaking with gold, silver and South Korea down big",
+    "summary": "Gold and silver prices are falling significantly, which should make jewelry and precious metal items cheaper for consumers. This creates a buying opportunity for engagement rings, watches, and other jewelry items.",
+    "price_impact": "5-15% decrease on gold and silver jewelry",
+    "urgency": "immediate",
+    "affected_categories": [
+      "jewelry"
+    ],
+    "affected_products": "gold jewelry, silver jewelry, precious metal watches, investment coins",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/03/the-momentum-trades-of-2026-are-breaking-with-gold-silver-and-south-korea-down-big.html",
+      "source": "Finance",
+      "published": "Tue, 03 Mar 2026 15:30:25 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        3,
+        15,
+        30,
+        25,
+        1,
+        62,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:49.967040"
+    }
+  },
+  {
+    "title": "New York Fed's Williams says tariff burden falls 'overwhelmingly' on U.S. businesses and consumers",
+    "summary": "Tariffs are acting like a hidden tax that U.S. businesses pass on to consumers through higher prices on imported goods. This is making it harder for the Federal Reserve to control inflation, which means everyday items from groceries to electronics may cost more.",
+    "price_impact": "broad-based inflationary pressure across consumer goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "toys"
+    ],
+    "affected_products": "imported consumer goods across multiple categories",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html",
+      "source": "Finance",
+      "published": "Tue, 03 Mar 2026 16:53:43 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        3,
+        16,
+        53,
+        43,
+        1,
+        62,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:49.967048"
+    }
+  },
+  {
+    "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
+    "summary": "This domestic rare earth magnet factory could eventually reduce prices for electric cars, smartphones, and appliances by decreasing dependence on Chinese imports. However, benefits won't be felt for several years as the facility gets built and operational.",
+    "price_impact": "potential 5-15% decrease on electric vehicles and electronics over 2-3 years",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics",
+      "auto",
+      "appliances",
+      "energy"
+    ],
+    "affected_products": "electric vehicles, smartphones, laptops, wind turbines, washing machines, speakers",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html",
+      "source": "Finance",
+      "published": "Thu, 26 Feb 2026 14:25:31 GMT",
+      "published_parsed": [
+        2026,
+        2,
+        26,
+        14,
+        25,
+        31,
+        3,
+        57,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:49.967116"
+    }
+  },
+  {
+    "title": "Nvidia still hasn't sold its U.S.-approved China AI chips — and it’s worried local AI rivals could take over",
+    "summary": "If Nvidia can't sell AI chips to China and local competitors fill the gap, it could reduce global competition and potentially lead to higher prices for graphics cards, gaming systems, and AI-powered electronics. This mainly affects tech enthusiasts and gamers rather than everyday household items.",
+    "price_impact": "potential 10-20% increase on AI-powered devices and GPUs",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics"
+    ],
+    "affected_products": "graphics cards, gaming computers, AI-powered electronics, high-end laptops",
+    "original_article": {
+      "link": "https://www.cnbc.com/2026/02/26/nvidia-china-chip-sales-export-controls-ai-competition.html",
+      "source": "Finance",
+      "published": "Thu, 26 Feb 2026 08:23:22 GMT",
+      "published_parsed": [
+        2026,
+        2,
+        26,
+        8,
+        23,
+        22,
+        3,
+        57,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:49.967124"
+    }
+  },
+  {
+    "title": "Seoul Flags US Hint of No Tariff Hike If Investment Bill Passes",
+    "summary": "If South Korea passes this investment bill, US consumers could avoid higher prices on Korean products like Samsung phones, LG appliances, and Hyundai/Kia cars. Without the bill, these items could become significantly more expensive due to tariffs.",
+    "price_impact": "potential avoidance of 10-25% price increases",
+    "urgency": "30-days",
+    "affected_categories": [
+      "electronics",
+      "auto",
+      "appliances"
+    ],
+    "affected_products": "Samsung smartphones and TVs, LG washers and refrigerators, Hyundai and Kia vehicles",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-09/seoul-flags-us-hint-of-no-tariff-hike-if-investment-bill-passes",
+      "source": "Bloomberg Economics",
+      "published": "Mon, 09 Mar 2026 03:14:10 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        9,
+        3,
+        14,
+        10,
+        0,
+        68,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209190"
+    }
+  },
+  {
+    "title": "China Keeps Pushing Nuclear Power With Ambitious Growth Target",
+    "summary": "China's push for more nuclear power plants could eventually lead to lower electricity costs for consumers as nuclear energy is typically cheaper than fossil fuels once operational. However, this impact would take years to materialize as new reactors take time to build and come online.",
+    "price_impact": "potential long-term electricity cost reduction of 5-15%",
+    "urgency": "long-term",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "electricity bills, energy costs",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-09/china-keeps-pushing-nuclear-power-with-ambitious-growth-target",
+      "source": "Bloomberg Economics",
+      "published": "Mon, 09 Mar 2026 02:44:48 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        9,
+        2,
+        44,
+        48,
+        0,
+        68,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209205"
+    }
+  },
+  {
+    "title": "Japan’s Stagflation Risk Mounts With $100 Oil and Sagging Yen",
+    "summary": "Rising oil prices and a weak yen will make gasoline, heating, and electricity more expensive for Japanese households. Additionally, imported goods like electronics, cars, and food will cost more as the weak yen makes foreign products pricier.",
+    "price_impact": "10-20% increase on energy costs, 5-15% increase on imported goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "food",
+      "auto",
+      "electronics",
+      "appliances",
+      "construction"
+    ],
+    "affected_products": "gasoline, heating oil, electricity, imported food, cars, smartphones, home appliances, construction materials",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-09/japan-s-stagflation-risk-mounts-with-100-oil-and-sagging-yen",
+      "source": "Bloomberg Economics",
+      "published": "Mon, 09 Mar 2026 01:31:56 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        9,
+        1,
+        31,
+        56,
+        0,
+        68,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209215"
+    }
+  },
+  {
+    "title": "Japan’s Real Wages Advance for First Time in 13 Months",
+    "summary": "Japanese workers now have more buying power as their wages are finally growing faster than inflation for the first time in over a year. This means households can afford more goods and services without stretching their budgets, potentially leading to increased consumer spending across all categories.",
+    "price_impact": "general purchasing power improvement, no specific price changes",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "jewelry",
+      "energy",
+      "realestate",
+      "alcohol",
+      "tobacco",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "all consumer goods and services",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-08/japan-s-real-wages-advance-for-first-time-in-13-months",
+      "source": "Bloomberg Economics",
+      "published": "Sun, 08 Mar 2026 23:32:30 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        8,
+        23,
+        32,
+        30,
+        6,
+        67,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209225"
+    }
+  },
+  {
+    "title": "Oil Market Chaos to Deepen as More Gulf Giants Cut Output",
+    "summary": "Oil supply disruptions from Gulf producers cutting output will likely drive up gas prices at the pump within days. Higher energy costs also mean more expensive transportation, which can increase prices for groceries and other goods delivered by truck.",
+    "price_impact": "10-20% increase on gasoline and heating oil",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "auto",
+      "construction",
+      "food"
+    ],
+    "affected_products": "gasoline, diesel fuel, heating oil, jet fuel, natural gas",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-08/oil-market-chaos-set-to-deepen-as-more-gulf-giants-cut-output",
+      "source": "Bloomberg Economics",
+      "published": "Sun, 08 Mar 2026 11:43:12 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        8,
+        11,
+        43,
+        12,
+        6,
+        67,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209262"
+    }
+  },
+  {
+    "title": "US Inflation Gauges Likely Diverged Before War in Iran",
+    "summary": "This article discusses overall inflation trends that affect prices across all categories of goods and services that consumers buy. Rising inflation means your money doesn't go as far, making everything from groceries to gas to housing more expensive.",
+    "price_impact": "broad inflationary pressure across all goods and services",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food",
+      "energy",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "health"
+    ],
+    "affected_products": "all consumer goods and services",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-07/us-inflation-gauges-likely-diverged-before-war-in-iran",
+      "source": "Bloomberg Economics",
+      "published": "Sat, 07 Mar 2026 21:00:00 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        7,
+        21,
+        0,
+        0,
+        5,
+        66,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209271"
+    }
+  },
+  {
+    "title": "Bank of England May Be Wary of Looking Past Another Energy Shock",
+    "summary": "Rising energy prices could push up your electricity, gas, and heating bills in the coming months. The Bank of England is considering whether to raise interest rates to control inflation, which could also make borrowing more expensive for mortgages and loans.",
+    "price_impact": "potential significant increase in energy bills, percentage depends on shock severity",
+    "urgency": "30-days",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "electricity bills, natural gas, heating oil, gasoline",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-08/bank-of-england-may-be-wary-of-looking-past-another-energy-shock",
+      "source": "Bloomberg Economics",
+      "published": "Sun, 08 Mar 2026 06:00:00 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        8,
+        6,
+        0,
+        0,
+        6,
+        67,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209280"
+    }
+  },
+  {
+    "title": "Trump’s Africa Minerals Push Faces Long Road to Match Dominant China",
+    "summary": "The U.S. is trying to reduce dependence on China for critical minerals needed in phones, cars, and batteries, but China still dominates these supply chains. Any successful shift could initially increase costs as alternative suppliers typically charge more than established Chinese operations.",
+    "price_impact": "potential 3-8% increase on electronics and EVs if supply diversification succeeds",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics",
+      "auto",
+      "appliances",
+      "energy",
+      "construction"
+    ],
+    "affected_products": "smartphones, electric vehicles, solar panels, batteries, appliances with lithium batteries",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/newsletters/2026-03-07/trump-s-africa-minerals-push-faces-long-road-to-match-dominant-china",
+      "source": "Bloomberg Economics",
+      "published": "Sat, 07 Mar 2026 11:45:01 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        7,
+        11,
+        45,
+        1,
+        5,
+        66,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209289"
+    }
+  },
+  {
+    "title": "Charting the Global Economy: Oil Prices Top $90 on Iran War",
+    "summary": "Oil prices jumping above $90 will quickly translate to higher gas prices at the pump and increased heating costs for homes. This will also drive up transportation costs for goods, making groceries and other everyday items more expensive.",
+    "price_impact": "15-25% increase on gasoline and heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "food",
+      "auto"
+    ],
+    "affected_products": "gasoline, heating oil, diesel fuel, airline tickets, shipping costs for all consumer goods",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-07/world-economy-latest-oil-prices-surge-above-90-a-barrel-on-iran-war",
+      "source": "Bloomberg Economics",
+      "published": "Sat, 07 Mar 2026 10:00:00 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        7,
+        10,
+        0,
+        0,
+        5,
+        66,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209303"
+    }
+  },
+  {
+    "title": "Global Economy Faces Widening Strains as Mideast War Intensifies",
+    "summary": "Middle East conflicts typically disrupt oil supplies and shipping routes, leading to higher gas prices at the pump and increased costs for food and goods that rely on transportation. Households should expect higher energy bills and grocery costs as economic instability spreads globally.",
+    "price_impact": "10-25% increase on gasoline and heating costs, 3-8% increase on food prices",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "food"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas, imported foods, packaged goods",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-07/global-economy-faces-widening-strains-as-mideast-war-intensifies",
+      "source": "Bloomberg Economics",
+      "published": "Sat, 07 Mar 2026 10:00:00 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        7,
+        10,
+        0,
+        0,
+        5,
+        66,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209312"
+    }
+  },
+  {
+    "title": "In Charts: How The Iran Conflict is Disrupting Global Trade",
+    "summary": "The Iran conflict is blocking a major oil shipping route, causing gas prices to spike immediately at the pump. Food costs are also rising because fertilizer prices are up, which increases farming costs that get passed to consumers.",
+    "price_impact": "10-20% increase on gasoline and heating costs, 5-15% increase on food prices",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "food"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas, groceries (especially produce and grains)",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-07/in-charts-how-the-iran-conflict-is-disrupting-global-trade",
+      "source": "Bloomberg Economics",
+      "published": "Sat, 07 Mar 2026 08:30:03 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        7,
+        8,
+        30,
+        3,
+        5,
+        66,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209321"
+    }
+  },
+  {
+    "title": "ECB Rate-Hike Bets Test Officials’ Attempts to Keep Their Cool",
+    "summary": "Higher ECB interest rates will make loans more expensive for mortgages, car purchases, and credit cards. This means higher monthly payments for financed purchases and increased borrowing costs for European consumers.",
+    "price_impact": "0.25-0.75% increase in borrowing costs",
+    "urgency": "90-days",
+    "affected_categories": [
+      "realestate",
+      "auto",
+      "appliances",
+      "furniture",
+      "electronics",
+      "construction"
+    ],
+    "affected_products": "mortgages, auto loans, credit cards, personal loans",
+    "original_article": {
+      "link": "https://www.bloomberg.com/news/articles/2026-03-07/ecb-rate-hike-bets-test-officials-attempts-to-keep-their-cool",
+      "source": "Bloomberg Economics",
+      "published": "Sat, 07 Mar 2026 08:00:00 GMT",
+      "published_parsed": [
+        2026,
+        3,
+        7,
+        8,
+        0,
+        0,
+        5,
+        66,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.209330"
+    }
+  },
+  {
+    "title": "U.S. productivity slows down in fourth quarter while unit labor costs accelerate",
+    "summary": "When worker productivity slows and labor costs rise, companies typically pass these higher costs onto consumers through price increases. This affects nearly everything you buy since labor is a component of all goods and services, though the impact builds gradually over months.",
+    "price_impact": "2-4% gradual increase across most goods and services",
+    "urgency": "long-term",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "furniture",
+      "health"
+    ],
+    "affected_products": "Most consumer goods and services due to increased labor costs throughout the economy",
+    "original_article": {
+      "link": "https://www.marketwatch.com/story/u-s-productivity-slows-down-in-fourth-quarter-while-unit-labor-costs-accelerate-3c2b9092?mod=mw_rss_marketpulse",
+      "source": "MarketWatch.com - MarketPulse",
+      "published": "Thu, 06 Feb 2025 13:34:00 GMT",
+      "published_parsed": [
+        2025,
+        2,
+        6,
+        13,
+        34,
+        0,
+        3,
+        37,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.273512"
+    }
+  },
+  {
+    "title": "Vestas Wind Systems stock slumps as company says margins to be at low end of guidance",
+    "summary": "Vestas makes wind turbines that generate clean electricity. Lower profit margins could slow wind farm development or make wind energy projects more expensive, potentially leading to slightly higher electricity bills over time as utilities pass costs to consumers.",
+    "price_impact": "Minimal immediate impact, but could contribute to 2-5% higher electricity rates long-term",
+    "urgency": "long-term",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "Electricity bills from utilities that use wind power",
+    "original_article": {
+      "link": "https://www.marketwatch.com/story/vestas-wind-systems-stock-slumps-as-company-says-margins-to-be-at-low-end-of-guidance-a33bf5c4?mod=mw_rss_marketpulse",
+      "source": "MarketWatch.com - MarketPulse",
+      "published": "Tue, 05 Nov 2024 08:39:00 GMT",
+      "published_parsed": [
+        2024,
+        11,
+        5,
+        8,
+        39,
+        0,
+        1,
+        310,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.273560"
+    }
+  },
+  {
+    "title": "DirecTV to acquire EchoStar’s video distribution business including Dish TV and Sling TV",
+    "summary": "This merger between major TV service providers could affect monthly subscription costs for satellite and streaming TV services. The impact on prices will depend on whether the combined company offers competitive rates or reduces competition in the market.",
+    "price_impact": "Potential changes to TV service pricing, magnitude unclear pending merger details",
+    "urgency": "long-term",
+    "affected_categories": [
+      "electronics"
+    ],
+    "affected_products": "Satellite TV subscriptions (DirecTV, Dish TV) and streaming services (Sling TV)",
+    "original_article": {
+      "link": "https://www.marketwatch.com/story/directv-to-acquire-echostars-video-distribution-business-including-dish-tv-and-sling-tv-23349832?mod=mw_rss_marketpulse",
+      "source": "MarketWatch.com - MarketPulse",
+      "published": "Mon, 30 Sep 2024 11:15:00 GMT",
+      "published_parsed": [
+        2024,
+        9,
+        30,
+        11,
+        15,
+        0,
+        0,
+        274,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.273641"
+    }
+  },
+  {
+    "title": "Alibaba stock climbs on report of vendor service fee increase",
+    "summary": "Alibaba is raising fees charged to sellers on its platform, which will likely be passed on to consumers as higher prices for products sold through Alibaba's marketplace. This affects millions of items from Chinese suppliers that consumers buy directly or through retailers who source from Alibaba.",
+    "price_impact": "2-5% increase on Alibaba marketplace products",
+    "urgency": "30-days",
+    "affected_categories": [
+      "electronics",
+      "clothing",
+      "appliances",
+      "toys",
+      "furniture",
+      "beauty",
+      "jewelry"
+    ],
+    "affected_products": "Consumer goods sold on Alibaba marketplace including electronics, clothing, home goods, and imported merchandise",
+    "original_article": {
+      "link": "https://www.marketwatch.com/story/alibaba-stock-climbs-on-report-of-vendor-service-fee-increase-db9d1854?mod=mw_rss_marketpulse",
+      "source": "MarketWatch.com - MarketPulse",
+      "published": "Mon, 29 Jul 2024 11:43:00 GMT",
+      "published_parsed": [
+        2024,
+        7,
+        29,
+        11,
+        43,
+        0,
+        0,
+        211,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:50.273668"
+    }
+  },
+  {
+    "title": "The Recovery Was Finally Within Reach – Rising Fuel Costs May Have Just Pushed It Back Out",
+    "summary": "Rising fuel costs are making trucking more expensive, which means higher shipping costs that get passed on to consumers through higher prices on nearly everything that gets delivered to stores. This affects most products you buy since trucks transport goods from warehouses to retail locations.",
+    "price_impact": "2-5% increase on shipped goods",
+    "urgency": "30-days",
+    "affected_categories": [
+      "food",
+      "appliances",
+      "auto",
+      "electronics",
+      "clothing",
+      "construction",
+      "beauty",
+      "furniture",
+      "toys",
+      "sports",
+      "health"
+    ],
+    "affected_products": "All goods transported by truck - groceries, household items, online purchases, retail merchandise",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/the-recovery-was-finally-within-reach-rising-fuel-costs-may-have-just-pushed-it-back-out",
+      "source": "FreightWaves",
+      "published": "Mon, 09 Mar 2026 02:37:03 +0000",
+      "published_parsed": [
+        2026,
+        3,
+        9,
+        2,
+        37,
+        3,
+        0,
+        68,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:52.283151"
+    }
+  },
+  {
+    "title": "Crude Just Hit $110 – What the War in Iran Means for Every Small Carrier Running Today",
+    "summary": "Oil prices hitting $110 per barrel will immediately increase gas prices at the pump and diesel costs for trucking companies. Since trucks transport nearly everything we buy, expect higher prices on groceries, retail goods, and any products that need to be shipped across the country.",
+    "price_impact": "10-20% increase on fuel costs, 3-8% increase on shipped goods",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "food",
+      "auto",
+      "construction",
+      "appliances",
+      "electronics",
+      "clothing"
+    ],
+    "affected_products": "gasoline, diesel fuel, groceries, retail merchandise, construction materials",
+    "original_article": {
+      "link": "https://www.freightwaves.com/news/crude-just-hit-110-what-the-war-in-iran-means-for-every-small-carrier-running-today",
+      "source": "FreightWaves",
+      "published": "Mon, 09 Mar 2026 02:10:36 +0000",
+      "published_parsed": [
+        2026,
+        3,
+        9,
+        2,
+        10,
+        36,
+        0,
+        68,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:52.283156"
+    }
+  },
+  {
+    "title": "Buying a Home This Year? 3 Moves to Make Before the Next Fed Meeting",
+    "summary": "This article focuses on preparing for potential Federal Reserve interest rate changes that could affect mortgage rates. While not directly about tariffs, Fed decisions on interest rates directly impact home buying costs and monthly mortgage payments for consumers.",
+    "price_impact": "mortgage rate changes could affect monthly payments by $100-300+ depending on loan size",
+    "urgency": "30-days",
+    "affected_categories": [
+      "realestate"
+    ],
+    "affected_products": "mortgages and home loans",
+    "original_article": {
+      "link": "https://www.kiplinger.com/real-estate/buying-a-home/buying-a-home-moves-to-make-before-the-next-fed-meeting",
+      "source": "Latest from Kiplinger",
+      "published": "Sat, 07 Mar 2026 11:35:00 +0000",
+      "published_parsed": [
+        2026,
+        3,
+        7,
+        11,
+        35,
+        0,
+        5,
+        66,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:53.257711"
+    }
+  },
+  {
+    "title": "Dow Drops 453 Points as Crude Oil Tops $90: Stock Market Today",
+    "summary": "Oil prices above $90 per barrel will quickly translate to higher gas prices at the pump and increased heating costs. This also pushes up transportation costs for goods, leading to higher prices on groceries and other everyday items.",
+    "price_impact": "10-15% increase on gasoline and heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy",
+      "food",
+      "auto"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas, groceries, shipping-dependent goods",
+    "original_article": {
+      "link": "https://www.kiplinger.com/investing/stocks/dow-drops-400-points-as-crude-oil-tops-usd90-stock-market-today",
+      "source": "Latest from Kiplinger",
+      "published": "Fri, 06 Mar 2026 21:13:09 +0000",
+      "published_parsed": [
+        2026,
+        3,
+        6,
+        21,
+        13,
+        9,
+        4,
+        65,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:53.257754"
+    }
+  },
+  {
+    "title": "Walmart Is No Longer the Cheapest Grocery Store – Here's the Chain That Beat It",
+    "summary": "A competitor now offers lower grocery prices than Walmart, giving families a new option to reduce their food spending. This could help households save money on their weekly grocery bills by switching stores.",
+    "price_impact": "potential savings opportunity - amounts vary by shopping habits",
+    "urgency": "immediate",
+    "affected_categories": [
+      "food"
+    ],
+    "affected_products": "groceries and food items",
+    "original_article": {
+      "link": "https://www.kiplinger.com/personal-finance/groceries/walmart-is-no-longer-the-cheapest-grocery-store-heres-the-chain-that-beat-it",
+      "source": "Latest from Kiplinger",
+      "published": "Fri, 06 Mar 2026 12:10:00 +0000",
+      "published_parsed": [
+        2026,
+        3,
+        6,
+        12,
+        10,
+        0,
+        4,
+        65,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:53.257764"
+    }
+  },
+  {
+    "title": "Iran Hits Gulf Tanker, Dow Drops 784 Points: Stock Market Today",
+    "summary": "When tankers are attacked in the Persian Gulf, oil prices spike immediately because this region supplies a large portion of the world's oil. Higher oil prices quickly translate to more expensive gasoline at the pump and increased heating costs for households.",
+    "price_impact": "10-25% increase on gasoline and heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, heating oil, diesel fuel, natural gas",
+    "original_article": {
+      "link": "https://www.kiplinger.com/investing/stocks/iran-hits-gulf-tanker-dow-drops-784-points-stock-market-today",
+      "source": "Latest from Kiplinger",
+      "published": "Thu, 05 Mar 2026 21:09:23 +0000",
+      "published_parsed": [
+        2026,
+        3,
+        5,
+        21,
+        9,
+        23,
+        3,
+        64,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:53.257807"
+    }
+  },
+  {
+    "title": "Homeowners Face Potential Capital Gains Tax Shift: What to Know Now",
+    "summary": "This isn't about tariffs or product prices, but about reducing taxes homeowners pay when selling their houses for a profit. If passed, it could save homeowners significant money when they sell, keeping more cash in their pockets after a home sale.",
+    "price_impact": "Potential tax savings of thousands of dollars on home sales",
+    "urgency": "long-term",
+    "affected_categories": [
+      "realestate"
+    ],
+    "affected_products": "Home sales and real estate transactions",
+    "original_article": {
+      "link": "https://www.kiplinger.com/taxes/will-capital-gains-tax-on-home-sales-end-this-year",
+      "source": "Latest from Kiplinger",
+      "published": "Thu, 05 Mar 2026 14:37:00 +0000",
+      "published_parsed": [
+        2026,
+        3,
+        5,
+        14,
+        37,
+        0,
+        3,
+        64,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:53.257826"
+    }
+  },
+  {
+    "title": "The 5 Best Copper ETFs to Buy",
+    "summary": "Rising copper prices affect products with significant copper content like air conditioners, cars, electronics, and home wiring. While this article focuses on investment opportunities, increased copper demand typically leads to higher prices for everyday items containing copper components.",
+    "price_impact": "3-7% increase on copper-intensive products",
+    "urgency": "long-term",
+    "affected_categories": [
+      "appliances",
+      "auto",
+      "electronics",
+      "construction"
+    ],
+    "affected_products": "air conditioners, refrigerators, cars, smartphones, home electrical systems, plumbing",
+    "original_article": {
+      "link": "https://www.kiplinger.com/investing/etfs/best-copper-etfs-to-buy",
+      "source": "Latest from Kiplinger",
+      "published": "Wed, 04 Mar 2026 19:40:07 +0000",
+      "published_parsed": [
+        2026,
+        3,
+        4,
+        19,
+        40,
+        7,
+        2,
+        63,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:53.257864"
+    }
+  },
+  {
+    "title": "State Farm Giving Out $5 Billion in Refund Checks: Are You Getting One?",
+    "summary": "State Farm is issuing $100 refund checks to drivers in certain states, providing direct savings on auto insurance costs. This puts money back in consumers' pockets and effectively reduces their annual auto insurance expenses.",
+    "price_impact": "-$100 refund checks",
+    "urgency": "30-days",
+    "affected_categories": [
+      "auto"
+    ],
+    "affected_products": "auto insurance premiums",
+    "original_article": {
+      "link": "https://www.kiplinger.com/personal-finance/car-insurance/state-farm-dividend-checks",
+      "source": "Latest from Kiplinger",
+      "published": "Wed, 04 Mar 2026 12:05:00 +0000",
+      "published_parsed": [
+        2026,
+        3,
+        4,
+        12,
+        5,
+        0,
+        2,
+        63,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:53.257874"
+    }
+  },
+  {
+    "title": "Dow Cuts 1,277-Point Drop as Trump Tames Energy Threat: Stock Market Today",
+    "summary": "U.S.-Iran conflict tensions typically drive up oil prices, which directly impacts gas prices at the pump and home heating costs. While Trump apparently addressed some energy concerns, geopolitical tensions in oil-rich regions can cause immediate price volatility for consumers.",
+    "price_impact": "potential 10-20% increase on gasoline and heating costs",
+    "urgency": "immediate",
+    "affected_categories": [
+      "energy"
+    ],
+    "affected_products": "gasoline, heating oil, natural gas, electricity rates",
+    "original_article": {
+      "link": "https://www.kiplinger.com/investing/stocks/dow-cuts-1277-point-drop-as-trump-tames-energy-threat-stock-market-today",
+      "source": "Latest from Kiplinger",
+      "published": "Tue, 03 Mar 2026 21:07:41 +0000",
+      "published_parsed": [
+        2026,
+        3,
+        3,
+        21,
+        7,
+        41,
+        1,
+        62,
+        0
+      ],
+      "fetched_date": "2026-03-09T00:48:53.257907"
+    }
+  }
+]

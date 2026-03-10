@@ -1,0 +1,575 @@
+/* 
+The Tariff Effect - Light Professional Design
+Clean, trustworthy, news-site aesthetic (NOT dark/phishy)
+Version 2.1 - FIXED
+*/
+
+:root {
+    /* LIGHT color palette - trustworthy */
+    --primary-blue: #1e40af;
+    --light-blue: #3b82f6;
+    --accent-orange: #f59e0b;
+    --success-green: #10b981;
+    --white: #ffffff;
+    --off-white: #fdfcfd;
+    
+    /* Colorful backgrounds (LESS GREY!) */
+    --light-blue-bg: #eff6ff;
+    --light-orange-bg: #fff7ed;
+    --light-green-bg: #f0fdf4;
+    --light-gray: #f9fafb;  /* Lighter grey, use sparingly */
+    
+    --medium-gray: #9ca3af;
+    --text-dark: #111827;
+    --text-medium: #4b5563;
+    --border-light: #e5e7eb;
+    
+    /* Typography */
+    --font-heading: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-body: 'Inter', -apple-system, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--text-dark);
+    background: var(--off-white);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   LIGHT TRUSTWORTHY HEADER (sticky)
+   ═══════════════════════════════════════════════════════════════════ */
+
+header {
+    position: sticky;
+    top: 0;
+    background: var(--white);
+    border-bottom: 2px solid var(--border-light);
+    padding: 1.25rem 0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    z-index: 1000;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.branding {
+    flex-shrink: 0;
+    text-align: center;  /* Center logo and tagline */
+}
+
+.branding a {
+    display: block;
+    text-decoration: none;
+}
+
+.site-logo {
+    height: 120px;  /* Much bigger logo - was 80px */
+    width: auto;
+    display: block;
+    margin: 0 auto;  /* Center the logo */
+    transition: opacity 0.2s ease;
+}
+
+.site-logo:hover {
+    opacity: 0.9;
+}
+
+.branding h1 {
+    font-size: 1.8em;
+    font-weight: 800;
+    color: var(--primary-blue);
+    letter-spacing: -0.5px;
+}
+
+.branding h1 .effect {
+    color: var(--accent-orange);
+}
+
+.tagline {
+    font-size: 1.1em;  /* Bigger tagline too */
+    color: var(--text-dark);  /* Darker for better visibility */
+    font-weight: 500;
+    margin-top: 0.75rem;  /* More space from logo */
+    text-align: center;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+nav a {
+    color: var(--text-dark);
+    text-decoration: none;
+    padding: 0.6rem 1rem;
+    border-radius: 6px;
+    transition: all 0.2s;
+    font-size: 0.95em;
+    font-weight: 500;
+}
+
+nav a:hover {
+    background: var(--light-gray);
+    color: var(--primary-blue);
+}
+
+nav a.donate-btn {
+    background: var(--accent-orange);
+    color: white;
+    font-weight: 600;
+}
+
+nav a.donate-btn:hover {
+    background: #d97706;
+}
+
+/* Category dropdown */
+.category-dropdown {
+    position: relative;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: white;
+    border: 1px solid var(--border-light);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 0.75rem;
+    min-width: 450px;
+    margin-top: 0.5rem;
+    grid-template-columns: repeat(3, 1fr);  /* 3 columns for 16 categories */
+    gap: 0.25rem;
+    z-index: 100;
+}
+
+/* Show on both hover AND when has .active class (for click) */
+.category-dropdown:hover .dropdown-menu,
+.category-dropdown.active .dropdown-menu {
+    display: grid;
+}
+
+.dropdown-menu a {
+    padding: 0.6rem 0.8rem;
+    font-size: 0.9em;
+    border-radius: 4px;
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   MAIN CONTENT
+   ═══════════════════════════════════════════════════════════════════ */
+
+main {
+    padding: 2.5rem 0;
+    min-height: calc(100vh - 300px);
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.page-header h2 {
+    font-size: 2.5em;
+    color: var(--text-dark);
+    margin-bottom: 0.75rem;
+    font-weight: 800;
+}
+
+.page-header p {
+    font-size: 1.1em;
+    color: var(--text-medium);
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+/* Info boxes */
+.info-box {
+    background: white;
+    padding: 1.75rem;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+    border: 2px solid var(--border-light);  /* Visible border */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+/* Alternate colorful backgrounds AND left borders for variety */
+.info-box:nth-child(odd) {
+    background: var(--light-blue-bg);  /* Light blue background */
+    border-left: 4px solid #1e40af;  /* Blue left border */
+}
+
+.info-box:nth-child(even) {
+    background: var(--light-orange-bg);  /* Light orange background */
+    border-left: 4px solid #f59e0b;  /* Orange left border */
+}
+
+.info-box h3 {
+    font-size: 1.4em;
+    margin-bottom: 1rem;
+    color: var(--text-dark);
+    font-weight: 700;
+}
+
+.badge-guide {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.badge-guide-item {
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+    border: 2px solid;
+}
+
+.badge-guide-item.urgent {
+    background: #fef2f2;
+    border-color: #dc2626;
+}
+
+.badge-guide-item.soon {
+    background: #fffbeb;
+    border-color: #f59e0b;
+}
+
+.badge-guide-item.moderate {
+    background: #eff6ff;
+    border-color: #3b82f6;
+}
+
+.badge-guide-item.longterm {
+    background: #f9fafb;
+    border-color: #9ca3af;
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   ARTICLE CARDS - Clean professional look
+   ═══════════════════════════════════════════════════════════════════ */
+
+.articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    align-items: stretch;  /* Makes all cards same height */
+}
+
+.tariff-card {
+    background: white;
+    border-radius: 10px;
+    border: 3px solid var(--border-light);  /* Thicker border - more visible */
+    overflow: hidden;
+    transition: all 0.2s;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+
+/* Alternating colored borders for cards */
+.tariff-card:nth-child(4n+1) {
+    border-left: 5px solid #1e40af;  /* Blue */
+}
+
+.tariff-card:nth-child(4n+2) {
+    border-left: 5px solid #f59e0b;  /* Orange */
+}
+
+.tariff-card:nth-child(4n+3) {
+    border-left: 5px solid #1e40af;  /* Blue */
+}
+
+.tariff-card:nth-child(4n+4) {
+    border-left: 5px solid #f59e0b;  /* Orange */
+}
+
+.tariff-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+    border-color: var(--primary-blue);  /* Change color but keep same thickness */
+}
+
+.card-header {
+    padding: 1rem 1.25rem;
+    background: var(--light-blue-bg);  /* Light blue instead of grey! */
+    border-bottom: 1px solid var(--border-light);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.urgency-badge {
+    padding: 0.35rem 0.9rem;
+    border-radius: 16px;
+    font-size: 0.75em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.urgency-badge.urgent {
+    background: #dc2626;
+    color: white;
+}
+
+.urgency-badge.soon {
+    background: #f59e0b;
+    color: white;
+}
+
+.urgency-badge.moderate {
+    background: #3b82f6;
+    color: white;
+}
+
+.urgency-badge.low {
+    background: #9ca3af;
+    color: white;
+}
+
+.source {
+    font-size: 0.75em;
+    color: var(--medium-gray);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.card-body {
+    padding: 1.25rem;
+    flex-grow: 1;  /* Body takes up available space */
+    display: flex;
+    flex-direction: column;
+}
+
+.card-body h3 {
+    font-size: 1.15em;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+.card-body h3 a {
+    color: var(--text-dark);
+    text-decoration: none;
+}
+
+.card-body h3 a:hover {
+    color: var(--primary-blue);
+}
+
+.family-impact {
+    background: var(--light-blue-bg);  /* Use blue instead of grey! */
+    border-left: 3px solid var(--primary-blue);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    font-size: 0.95em;
+    line-height: 1.6;
+    border-radius: 4px;
+}
+
+.impact-details {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: auto;  /* Push to bottom of card body */
+}
+
+.detail-item {
+    font-size: 0.9em;
+    padding: 0.7rem 1rem;
+    background: var(--light-gray);
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.detail-item strong {
+    color: var(--text-dark);
+    font-weight: 600;
+}
+
+.card-footer {
+    padding: 1rem 1.25rem;
+    background: var(--light-gray);
+    border-top: 1px solid var(--border-light);
+}
+
+.read-more {
+    color: var(--primary-blue);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9em;
+    transition: color 0.2s;
+}
+
+.read-more:hover {
+    color: var(--light-blue);
+}
+
+.read-more::after {
+    content: ' →';
+}
+
+/* Empty state */
+.no-articles {
+    background: white;
+    padding: 3rem 2rem;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid var(--border-light);
+}
+
+.no-articles h3 {
+    color: var(--text-dark);
+    margin-bottom: 0.75rem;
+    font-size: 1.5em;
+}
+
+.no-articles p {
+    color: var(--text-medium);
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   AD PLACEMENTS
+   ═══════════════════════════════════════════════════════════════════ */
+
+.ad-container {
+    background: var(--light-gray);
+    border: 2px dashed var(--border-light);
+    border-radius: 8px;
+    padding: 1.5rem;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.ad-container p {
+    color: var(--medium-gray);
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   FOOTER
+   ═══════════════════════════════════════════════════════════════════ */
+
+footer {
+    background: var(--white);
+    border-top: 1px solid var(--border-light);
+    padding: 2rem 0;
+    margin-top: 3rem;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.footer-left p {
+    color: var(--text-medium);
+    margin-bottom: 0.25rem;
+    font-size: 0.95em;
+}
+
+.footer-right {
+    display: flex;
+    gap: 1.5rem;  /* Increased from 0 for better spacing */
+}
+
+footer a {
+    color: var(--text-medium);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0 0.5rem;  /* Add horizontal padding for click area */
+}
+
+footer a:hover {
+    color: var(--primary-blue);
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   RESPONSIVE
+   ═══════════════════════════════════════════════════════════════════ */
+
+@media (max-width: 968px) {
+    .header-content {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    nav {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    
+    .articles-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .site-logo {
+        height: 50px;  /* Slightly smaller on tablets */
+    }
+}
+
+@media (max-width: 640px) {
+    .branding h1 {
+        font-size: 1.5em;
+    }
+    
+    .page-header h2 {
+        font-size: 2em;
+    }
+    
+    .badge-guide {
+        grid-template-columns: 1fr;
+    }
+    
+    nav a {
+        font-size: 0.9em;
+        padding: 0.5rem 1rem;
+    }
+    
+    .dropdown-menu {
+        grid-template-columns: 1fr;
+    }
+    
+    .site-logo {
+        height: 45px;  /* Smaller on mobile */
+    }
+    
+    .tagline {
+        font-size: 0.85em;
+    }
+}
+
+/* Smooth scroll */
+html {
+    scroll-behavior: smooth;
+}

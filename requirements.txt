@@ -1,0 +1,14 @@
+# Python library requirements for The Tariff Effect
+# Install with: pip install -r requirements.txt
+
+# For Claude AI analysis
+anthropic==0.43.0
+
+# For reading RSS feeds
+feedparser==6.0.11
+
+# For loading API keys from .env file
+python-dotenv==1.0.1
+
+# For making web requests (if needed)
+requests==2.32.3
