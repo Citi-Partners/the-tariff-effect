@@ -1,3 +1,4 @@
+       
 """
 generate_site.py - Website generator (v2.0)
 Generates homepage + 16 category pages + mission + donate + history pages
@@ -798,7 +799,57 @@ def print_summary(articles):
     print(f"Pages created: {3 + len(CATEGORIES)} (homepage + {len(CATEGORIES)} categories + mission + donate + history)")
     print("\n✅ To view: Open index.html in your browser")
     print("✅ To deploy: Push to GitHub\n")
-
+def generate_sitemap():
+    """Generate sitemap.xml for SEO"""
+    print("Generating sitemap...")
+    
+    from datetime import datetime
+    today = datetime.now().strftime('%Y-%m-%d')
+    
+    sitemap = f"""<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://thetariffeffect.com/</loc>
+        <lastmod>{today}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://thetariffeffect.com/history.html</loc>
+        <lastmod>{today}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetariffeffect.com/mission.html</loc>
+        <lastmod>{today}</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://thetariffeffect.com/donate.html</loc>
+        <lastmod>{today}</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+"""
+    
+    # Add all 16 category pages
+    for key in CATEGORIES.keys():
+        sitemap += f"""    <url>
+        <loc>https://thetariffeffect.com/{key}.html</loc>
+        <lastmod>{today}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+"""
+    
+    sitemap += "</urlset>"
+    
+    with open('sitemap.xml', 'w', encoding='utf-8') as file:
+        file.write(sitemap)
+    
+    print("✓ Created sitemap.xml")
 if __name__ == "__main__":
     print("\n" + "="*60)
     print("🌐 GENERATING WEBSITE (v3.0)")
@@ -809,5 +860,6 @@ if __name__ == "__main__":
     generate_category_pages(articles)
     generate_history_page(articles)  # Pass articles for archive section
     generate_mission_page()
+    generate_sitemap()
     
     print_summary(articles)
