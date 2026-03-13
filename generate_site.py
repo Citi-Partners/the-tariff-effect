@@ -76,7 +76,7 @@ def get_header(active_page=''):
                     </div>
                     <a href="history.html" {"class='active'" if active_page == 'History' else ''}>History</a>
                     <a href="mission.html" {"class='active'" if active_page == 'Mission' else ''}>Mission</a>
-                    <a href="donate.html" class="donate-btn">Donate</a>
+                    <a href="#" class="donate-btn" onclick="openDonateModal(); return false;">Donate</a>
                 </nav>
             </div>
         </div>
@@ -87,47 +87,70 @@ def get_header(active_page=''):
 def get_footer():
     """Generate HTML footer"""
     update_time = datetime.now().strftime("%B %d, %Y at %I:%M %p ET")
+    
     return f"""
-    </main>
-    <footer>
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-left">
-                    <p><strong>{SITE_TITLE}</strong> - Tracking tariff impacts on American families</p>
-                    <p class="update-time">Last updated: {update_time}</p>
-                </div>
-                <div class="footer-right">
-                    <a href="mission.html">Mission</a>
-                    <a href="history.html">History</a>
-                    <a href="donate.html">Support Us</a>
+        <footer>
+            <div class="container">
+                <div class="footer-content">
+                    <p>&copy; 2026 Citi Partners Inc. | Tracking tariff impacts on American families</p>
+                    <p style="font-size: 0.9em; color: var(--text-medium);">Last updated: {update_time}</p>
                 </div>
             </div>
-        </div>
-    </footer>
-    <script>
-    // Category dropdown click behavior
-    document.addEventListener('DOMContentLoaded', function() {{
-        const dropdown = document.querySelector('.category-dropdown');
-        const dropdownLink = dropdown?.querySelector('a');
+        </footer>
         
-        if (dropdownLink) {{
-            dropdownLink.addEventListener('click', function(e) {{
-                e.preventDefault();
-                dropdown.classList.toggle('active');
-            }});
-            
-            // Close when clicking outside
-            document.addEventListener('click', function(e) {{
-                if (!dropdown.contains(e.target)) {{
-                    dropdown.classList.remove('active');
-                }}
-            }});
+        <!-- Donation Modal -->
+        <div id="donateModal" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="closeDonateModal()">&times;</span>
+                <h2 style="margin-bottom: 1rem; color: var(--text-dark);">Support The Tariff Effect</h2>
+                <p style="margin-bottom: 1.5rem; color: var(--text-medium);">
+                    Help us keep tracking tariff impacts for American families. Your donation keeps this service free and independent.
+                </p>
+                <givebutter-widget id="gGP7Vp"></givebutter-widget>
+                <script async src="https://widgets.givebutter.com/latest.umd.cjs?acct=tNu1xZUaiyXMkQzO&p=other"></script>
+            </div>
+        </div>
+        
+        <script>
+        // Donation modal functions
+        function openDonateModal() {{
+            document.getElementById('donateModal').style.display = 'block';
+            document.body.style.overflow = 'hidden';
         }}
-    }});
-    </script>
-</body>
-</html>
-"""
+        
+        function closeDonateModal() {{
+            document.getElementById('donateModal').style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }}
+        
+        // Close modal when clicking outside
+        window.onclick = function(event) {{
+            const modal = document.getElementById('donateModal');
+            if (event.target == modal) {{
+                closeDonateModal();
+            }}
+        }}
+        
+        // Category dropdown toggle
+        document.addEventListener('DOMContentLoaded', function() {{
+            const dropdown = document.querySelector('.category-dropdown');
+            if (dropdown) {{
+                dropdown.addEventListener('click', function(e) {{
+                    e.preventDefault();
+                    this.querySelector('.dropdown-menu').classList.toggle('show');
+                }});
+                
+                document.addEventListener('click', function(e) {{
+                    if (!dropdown.contains(e.target)) {{
+                        dropdown.querySelector('.dropdown-menu').classList.remove('show');
+                    }}
+                }});
+            }}
+        }});
+        </script>
+    </body>
+    </html>
+    """
 
 def create_article_card(article):
     """Generate HTML for one tariff card"""
