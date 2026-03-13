@@ -62,7 +62,7 @@ def get_header(active_page=''):
             <div class="header-content">
                 <div class="branding">
                     <a href="index.html" style="text-decoration: none;">
-                        <img src="the tariff effect logo.jpg" alt="{SITE_TITLE}" class="site-logo">
+                   <img src="the tariff effect logo.png" alt="{SITE_TITLE}" class="site-logo">
                     </a>
                     <p class="tagline">{SITE_TAGLINE}</p>
                 </div>

@@ -104,11 +104,10 @@ header {
 }
 
 .tagline {
-    font-size: 1.1em;  /* Bigger tagline too */
-    color: var(--text-dark);  /* Darker for better visibility */
+    font-size: 0.95em;
+    color: var(--text-medium);
+    margin: 0.25rem 0 0;
     font-weight: 500;
-    margin-top: 0.75rem;  /* More space from logo */
-    text-align: center;
 }
 
 /* Navigation */
