@@ -55,6 +55,17 @@ def get_header(active_page=''):
 <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5122718379856409"
          crossorigin="anonymous"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-67241BH3DY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-67241BH3DY');
+</script>
+
 </head>
 <body>
     <header>
@@ -277,31 +288,37 @@ def load_analyzed_articles():
 
 def filter_recent_articles(articles, days=7):
     """Filter articles to only show those from the last N days"""
+    from datetime import datetime, timedelta
+    from dateutil import parser as date_parser
+    
     cutoff_date = datetime.now() - timedelta(days=days)
     recent = []
     
     for article in articles:
-        # Try to get article date from original_article metadata
         original = article.get('original_article', {})
         pub_date = original.get('published_parsed')
         
+        article_datetime = None
+        
         if pub_date:
+            # Use published_parsed if available
             try:
-                # published_parsed is a time.struct_time
                 from time import mktime
                 article_datetime = datetime.fromtimestamp(mktime(pub_date))
-                
-                if article_datetime >= cutoff_date:
-                    recent.append(article)
-                else:
-                    # Article is older than cutoff
+            except:
+                pass
+        
+        # If published_parsed failed or doesn't exist, try parsing published string
+        if not article_datetime:
+            published_str = original.get('published', '')
+            if published_str:
+                try:
+                    article_datetime = date_parser.parse(published_str)
+                except:
                     pass
-            except Exception as e:
-                # If date parsing fails, include the article (assume recent)
-                print(f"  Warning: Could not parse date for article, including anyway: {e}")
-                recent.append(article)
-        else:
-            # If no date info, include the article (assume recent)
+        
+        # If we got a valid date, check if it's recent
+        if article_datetime and article_datetime >= cutoff_date:
             recent.append(article)
     
     return recent
@@ -368,8 +385,9 @@ def generate_homepage(articles):
     # Filter to only last 7 days for "This Week"
     recent_articles = filter_recent_articles(articles, days=7)
     
-    # Get articles 8+ days old for "Recent Updates"
+# Get articles 8+ days old for "Recent Updates"
     from time import mktime
+    from dateutil import parser as date_parser
     cutoff_7days = datetime.now() - timedelta(days=7)
     
     older_articles = []
@@ -377,13 +395,26 @@ def generate_homepage(articles):
         original = article.get('original_article', {})
         pub_date = original.get('published_parsed')
         
+        article_datetime = None
+        
         if pub_date:
             try:
                 article_datetime = datetime.fromtimestamp(mktime(pub_date))
-                if article_datetime < cutoff_7days:
-                    older_articles.append(article)
             except:
                 pass
+        
+        # Try parsing published string if published_parsed failed
+        if not article_datetime:
+            published_str = original.get('published', '')
+            if published_str:
+                try:
+                    article_datetime = date_parser.parse(published_str)
+                except:
+                    pass
+        
+        # Check if article is 8+ days old
+        if article_datetime and article_datetime < cutoff_7days:
+            older_articles.append(article)
     
     # Sort older articles by date (most recent first) and take top 10
     older_articles_sorted = sorted(
