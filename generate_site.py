@@ -200,11 +200,8 @@ def parse_article_datetime(article):
         try:
             from dateutil import parser
             dt = parser.parse(published)
-
-            # Normalize timezone-aware datetimes to naive
             if dt.tzinfo is not None:
                 dt = dt.astimezone().replace(tzinfo=None)
-
             return dt
         except Exception:
             return None
@@ -305,17 +302,17 @@ def load_analyzed_articles():
     with open(input_file, "r", encoding="utf-8") as file:
         all_articles = json.load(file)
 
-min_date = datetime(2026, 3, 1)
-filtered_articles = []
+    min_date = datetime(2026, 3, 1)
+    filtered_articles = []
 
-for article in all_articles:
-    article_datetime = parse_article_datetime(article)
+    for article in all_articles:
+        article_datetime = parse_article_datetime(article)
 
-    if article_datetime is not None and getattr(article_datetime, "tzinfo", None) is not None:
-        article_datetime = article_datetime.astimezone().replace(tzinfo=None)
+        if article_datetime is not None and getattr(article_datetime, "tzinfo", None) is not None:
+            article_datetime = article_datetime.astimezone().replace(tzinfo=None)
 
-    if article_datetime is None or article_datetime >= min_date:
-        filtered_articles.append(article)
+        if article_datetime is None or article_datetime >= min_date:
+            filtered_articles.append(article)
         
     print(f"Loaded {len(all_articles)} total articles, showing {len(filtered_articles)} from 3/1/26 onward")
     return filtered_articles
