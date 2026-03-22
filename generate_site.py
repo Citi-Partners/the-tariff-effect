@@ -184,13 +184,14 @@ def get_footer():
 
 
 def parse_article_datetime(article):
-    """Return datetime for article if available, else None."""
+    """Return normalized naive datetime for article if available, else None."""
     original = article.get("original_article", {})
     pub_date = original.get("published_parsed")
 
     if pub_date:
         try:
-            return datetime.fromtimestamp(mktime(pub_date))
+            dt = datetime.fromtimestamp(mktime(pub_date))
+            return dt.replace(tzinfo=None)
         except Exception:
             return None
 
@@ -198,7 +199,13 @@ def parse_article_datetime(article):
     if published:
         try:
             from dateutil import parser
-            return parser.parse(published)
+            dt = parser.parse(published)
+
+            # Normalize timezone-aware datetimes to naive
+            if dt.tzinfo is not None:
+                dt = dt.astimezone().replace(tzinfo=None)
+
+            return dt
         except Exception:
             return None
 
