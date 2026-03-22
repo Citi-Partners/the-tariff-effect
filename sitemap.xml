@@ -2,121 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://thetariffeffect.com/</loc>
-        <lastmod>2026-03-13</lastmod>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://thetariffeffect.com/history.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://thetariffeffect.com/mission.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/donate.html</loc>
-        <lastmod>2026-03-13</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://thetariffeffect.com/food.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/food/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/appliances.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/appliances/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/auto.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/auto/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/electronics.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/electronics/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/clothing.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/clothing/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/construction.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/construction/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/beauty.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/beauty/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/jewelry.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/jewelry/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/energy.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/energy/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/realestate.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/realestate/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/alcohol.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/alcohol/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/tobacco.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/tobacco/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/furniture.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/furniture/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/toys.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/toys/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/sports.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/sports/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://thetariffeffect.com/health.html</loc>
-        <lastmod>2026-03-13</lastmod>
+        <loc>https://thetariffeffect.com/health/</loc>
+        <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
