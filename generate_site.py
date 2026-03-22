@@ -305,14 +305,18 @@ def load_analyzed_articles():
     with open(input_file, "r", encoding="utf-8") as file:
         all_articles = json.load(file)
 
-    min_date = datetime(2026, 3, 1, 0, 0, 0)
-    filtered_articles = []
+min_date = datetime(2026, 3, 1)
+filtered_articles = []
 
-    for article in all_articles:
-        article_datetime = parse_article_datetime(article)
-        if article_datetime is None or article_datetime >= min_date:
-            filtered_articles.append(article)
+for article in all_articles:
+    article_datetime = parse_article_datetime(article)
 
+    if article_datetime is not None and getattr(article_datetime, "tzinfo", None) is not None:
+        article_datetime = article_datetime.astimezone().replace(tzinfo=None)
+
+    if article_datetime is None or article_datetime >= min_date:
+        filtered_articles.append(article)
+        
     print(f"Loaded {len(all_articles)} total articles, showing {len(filtered_articles)} from 3/1/26 onward")
     return filtered_articles
 
