@@ -305,7 +305,7 @@ def load_analyzed_articles():
     with open(input_file, "r", encoding="utf-8") as file:
         all_articles = json.load(file)
 
-    min_date = datetime(2026, 3, 1)
+    min_date = datetime(2026, 3, 1, 0, 0, 0)
     filtered_articles = []
 
     for article in all_articles:
